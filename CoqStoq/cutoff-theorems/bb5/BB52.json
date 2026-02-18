@@ -1,0 +1,134 @@
+[
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "BB52.v",
+    "theorem_start_pos": {
+      "line": 17,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 17,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 18,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 27
+    },
+    "hash": "4973d8a084357f4f5b4995d4685ef1b914bb8b9f234511a7d9f54a8277b5dc89"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "BB52.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 21,
+      "column": 27
+    },
+    "hash": "4973d8a084357f4f5b4995d4685ef1b914bb8b9f234511a7d9f54a8277b5dc89"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "BB52.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 6
+    },
+    "hash": "4973d8a084357f4f5b4995d4685ef1b914bb8b9f234511a7d9f54a8277b5dc89"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "BB52.v",
+    "theorem_start_pos": {
+      "line": 40,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 43,
+      "column": 6
+    },
+    "hash": "4973d8a084357f4f5b4995d4685ef1b914bb8b9f234511a7d9f54a8277b5dc89"
+  }
+]

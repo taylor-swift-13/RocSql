@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "zorns-lemma",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "aaf46b0c5f7857ce9211cbaaf36f184ca810e0e8",
+      "compile_args": [
+        "-R",
+        ".",
+        "ZornsLemma"
+      ]
+    },
+    "path": "DependentTypeChoice.v",
+    "theorem_start_pos": {
+      "line": 4,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "d6ebc16c22ba69ea29a6061898f5ed943bc16bf1b7dd55f5ef515784bba406d1"
+  }
+]

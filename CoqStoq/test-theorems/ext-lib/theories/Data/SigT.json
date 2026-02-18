@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "ext-lib",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "00d3f4e2a260c7c23d2c0b9cbc69516f8be4ac92",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "ExtLib"
+      ]
+    },
+    "path": "theories/Data/SigT.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 49
+    },
+    "hash": "d68a66d1b1fdf4b8de51bd56c7b18b889b9b6b539aa5458f6b9fb1347b670e5d"
+  }
+]

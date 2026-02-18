@@ -1,0 +1,128 @@
+[
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Inlining.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "8d544f5779731c327d9d21e35c2cc94662e7085f107f9d52c591145da762c012"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Inlining.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 4
+    },
+    "hash": "8d544f5779731c327d9d21e35c2cc94662e7085f107f9d52c591145da762c012"
+  }
+]

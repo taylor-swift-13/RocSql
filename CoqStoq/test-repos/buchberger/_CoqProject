@@ -1,0 +1,36 @@
+-Q theories Buchberger
+
+-arg -w -arg -fragile-hint-constr
+
+theories/Relation_Operators_compat.v
+theories/Bar.v
+theories/BuchAux.v
+theories/BuchRed.v
+theories/Buch.v
+theories/CoefStructure.v
+theories/Dickson.v
+theories/DivTerm.v
+theories/Fred.v
+theories/LetP.v
+theories/LexiOrder.v
+theories/ListProps.v
+theories/Monomials.v
+theories/moreCoefStructure.v
+theories/OpenIndGoodRel.v
+theories/OrderStructure.v
+theories/Pcomb.v
+theories/Pcrit.v
+theories/Peq.v
+theories/Pminus.v
+theories/Pmults.v
+theories/Pmult.v
+theories/POrder.v
+theories/Pplus.v
+theories/Preduceplus.v
+theories/Preducestar.v
+theories/Preduce.v
+theories/Pspminus.v
+theories/Pspoly.v
+theories/Term.v
+theories/WfR0.v
+src/Extract.v

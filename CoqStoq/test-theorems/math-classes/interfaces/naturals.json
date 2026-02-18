@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "interfaces/naturals.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 35,
+      "column": 6
+    },
+    "hash": "621dd1aa4a5485f3d1cf598d5839e690361124de024537879fa3f566b77557a2"
+  }
+]

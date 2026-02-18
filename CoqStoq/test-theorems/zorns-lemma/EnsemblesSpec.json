@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "zorns-lemma",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "aaf46b0c5f7857ce9211cbaaf36f184ca810e0e8",
+      "compile_args": [
+        "-R",
+        ".",
+        "ZornsLemma"
+      ]
+    },
+    "path": "EnsemblesSpec.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "b198e2228de45b3821e62e99339c434d8669106a8838f0d30ad5064278442d19"
+  }
+]

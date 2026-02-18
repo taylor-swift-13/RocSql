@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/homographic_correctness.v",
+    "theorem_start_pos": {
+      "line": 1498,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1511,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 1512,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1522,
+      "column": 4
+    },
+    "hash": "b5a3f2983ba449433f9d7e822ebc8e92ef767cc1e1a63ca396272ae8f18b60f0"
+  }
+]

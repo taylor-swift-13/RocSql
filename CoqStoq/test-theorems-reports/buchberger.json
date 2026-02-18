@@ -1,0 +1,76 @@
+{
+  "project": {
+    "dir_name": "buchberger",
+    "split": {
+      "dir_name": "test-repos",
+      "thm_dir_name": "test-theorems"
+    },
+    "commit_hash": "55ee2e82a05904a7dfb060e558044284abe9c9f5",
+    "compile_args": [
+      "-Q",
+      "theories",
+      "Buchberger"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "test-repos/buchberger/theories/POrder.v",
+      "test-repos/buchberger/theories/WfR0.v",
+      "test-repos/buchberger/theories/Pplus.v",
+      "test-repos/buchberger/theories/Relation_Operators_compat.v",
+      "test-repos/buchberger/theories/Preducestar.v",
+      "test-repos/buchberger/theories/Pcrit.v",
+      "test-repos/buchberger/theories/CoefStructure.v",
+      "test-repos/buchberger/theories/Preduceplus.v",
+      "test-repos/buchberger/theories/mOrderStructure.v",
+      "test-repos/buchberger/theories/Pcomb.v",
+      "test-repos/buchberger/theories/Peq.v",
+      "test-repos/buchberger/theories/Pmults.v",
+      "test-repos/buchberger/theories/Bar.v",
+      "test-repos/buchberger/theories/ListProps.v",
+      "test-repos/buchberger/theories/Buch.v",
+      "test-repos/buchberger/theories/moreCoefStructure.v",
+      "test-repos/buchberger/theories/OpenIndGoodRel.v",
+      "test-repos/buchberger/theories/Pspminus.v",
+      "test-repos/buchberger/theories/Dickson.v",
+      "test-repos/buchberger/theories/Pspoly.v",
+      "test-repos/buchberger/theories/BuchAux.v",
+      "test-repos/buchberger/theories/Pminus.v",
+      "test-repos/buchberger/theories/Fred.v",
+      "test-repos/buchberger/theories/LetP.v",
+      "test-repos/buchberger/theories/OrderStructure.v",
+      "test-repos/buchberger/theories/DivTerm.v",
+      "test-repos/buchberger/theories/Monomials.v",
+      "test-repos/buchberger/theories/Pmult.v",
+      "test-repos/buchberger/theories/Term.v",
+      "test-repos/buchberger/theories/BuchRed.v",
+      "test-repos/buchberger/theories/LexiOrder.v",
+      "test-repos/buchberger/theories/Preduce.v",
+      "test-repos/buchberger/src/Extract.v"
+    ],
+    "errored_files": [
+      "test-repos/buchberger/theories/hPlus.v",
+      "test-repos/buchberger/theories/mCoefStructure.v",
+      "test-repos/buchberger/theories/hReducestar.v",
+      "test-repos/buchberger/theories/hBuchAux.v",
+      "test-repos/buchberger/theories/hMults.v",
+      "test-repos/buchberger/theories/hReduce.v",
+      "test-repos/buchberger/theories/hReduceplus.v",
+      "test-repos/buchberger/theories/hSpminus.v",
+      "test-repos/buchberger/theories/hComb.v",
+      "test-repos/buchberger/theories/hCoefStructure.v",
+      "test-repos/buchberger/theories/hTerm.v",
+      "test-repos/buchberger/theories/hMult.v",
+      "test-repos/buchberger/theories/hSpoly.v",
+      "test-repos/buchberger/theories/hBuch.v",
+      "test-repos/buchberger/theories/hOrderStructure.v",
+      "test-repos/buchberger/theories/hWfRO.v",
+      "test-repos/buchberger/theories/hEq.v",
+      "test-repos/buchberger/theories/hMinus.v",
+      "test-repos/buchberger/theories/hOrder.v"
+    ],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 658
+  }
+}

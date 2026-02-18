@@ -1,0 +1,4787 @@
+[
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 41
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 90,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 91,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 42
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 44
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 97,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 98,
+      "column": 38
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 44
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 62
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 109,
+      "column": 37
+    },
+    "proof_end_pos": {
+      "line": 109,
+      "column": 57
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 111,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 37
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 67
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 37
+    },
+    "proof_end_pos": {
+      "line": 113,
+      "column": 67
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 115,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 116,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 118,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 120,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 34
+    },
+    "proof_end_pos": {
+      "line": 120,
+      "column": 74
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 123,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 123,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 65
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 127,
+      "column": 65
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 46
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 136,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 27
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 45
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 139,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 139,
+      "column": 39
+    },
+    "proof_end_pos": {
+      "line": 139,
+      "column": 61
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 141,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 38
+    },
+    "proof_end_pos": {
+      "line": 141,
+      "column": 58
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 144,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 145,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 145,
+      "column": 78
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 163,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 164,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 164,
+      "column": 44
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 173,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 173,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 174,
+      "column": 44
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 40
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 179,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 180,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 180,
+      "column": 41
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 182,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 183,
+      "column": 42
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 185,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 186,
+      "column": 42
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 188,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 188,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 35
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 191,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 192,
+      "column": 47
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 194,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 42
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 197,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 197,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 198,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 198,
+      "column": 36
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 200,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 200,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 201,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 201,
+      "column": 48
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 204,
+      "column": 58
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 206,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 207,
+      "column": 49
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 209,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 210,
+      "column": 59
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 212,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 212,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 213,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 213,
+      "column": 79
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 215,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 216,
+      "column": 41
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 218,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 218,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 219,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 219,
+      "column": 54
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 221,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 225,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 227,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 227,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 228,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 53
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 230,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 231,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 231,
+      "column": 50
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 233,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 233,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 234,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 234,
+      "column": 54
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 236,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 236,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 237,
+      "column": 54
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 239,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 239,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 240,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 240,
+      "column": 50
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 249,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 250,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 250,
+      "column": 44
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 252,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 252,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 253,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 253,
+      "column": 51
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 255,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 256,
+      "column": 43
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 269,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 269,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 270,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 270,
+      "column": 44
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 272,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 272,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 273,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 273,
+      "column": 40
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 275,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 275,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 276,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 276,
+      "column": 41
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 278,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 278,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 279,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 279,
+      "column": 42
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 281,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 281,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 282,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 282,
+      "column": 62
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 284,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 284,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 285,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 285,
+      "column": 35
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 287,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 287,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 288,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 288,
+      "column": 68
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 290,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 291,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 291,
+      "column": 41
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 293,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 293,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 294,
+      "column": 41
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 296,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 296,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 297,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 297,
+      "column": 35
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 299,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 299,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 300,
+      "column": 37
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 302,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 303,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 303,
+      "column": 35
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 305,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 305,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 306,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 306,
+      "column": 35
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 310,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 310,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 311,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 311,
+      "column": 40
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 313,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 313,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 314,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 318,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 321,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 321,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 322,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 322,
+      "column": 49
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 325,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 326,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 326,
+      "column": 58
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 329,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 329,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 330,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 330,
+      "column": 44
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 336,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 336,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 337,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 342,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 344,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 345,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 353,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 357,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 357,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 358,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 361,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 363,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 363,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 364,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 366,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 378,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 378,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 379,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 387,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 389,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 389,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 390,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 390,
+      "column": 55
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 392,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 392,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 393,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 393,
+      "column": 54
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 405,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 405,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 406,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 406,
+      "column": 28
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 408,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 408,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 409,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 412,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 414,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 414,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 415,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 415,
+      "column": 77
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 417,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 417,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 418,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 418,
+      "column": 70
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 420,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 420,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 421,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 421,
+      "column": 50
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 425,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 425,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 426,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 428,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 430,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 430,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 431,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 434,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 436,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 436,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 437,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 437,
+      "column": 74
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 439,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 439,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 440,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 440,
+      "column": 67
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 442,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 442,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 443,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 443,
+      "column": 48
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 445,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 445,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 446,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 449,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 451,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 451,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 452,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 452,
+      "column": 49
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 461,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 461,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 461,
+      "column": 31
+    },
+    "proof_end_pos": {
+      "line": 461,
+      "column": 59
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 463,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 463,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 464,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 464,
+      "column": 50
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 466,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 466,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 467,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 472,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 474,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 474,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 475,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 479,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 481,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 481,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 482,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 485,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 487,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 487,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 488,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 488,
+      "column": 78
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 490,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 490,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 491,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 494,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 500,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 500,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 501,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 501,
+      "column": 28
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 503,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 503,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 504,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 507,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 509,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 509,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 510,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 510,
+      "column": 73
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 512,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 512,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 513,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 516,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 518,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 518,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 519,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 521,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 523,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 523,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 524,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 527,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 553,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 553,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 554,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 554,
+      "column": 62
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 556,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 556,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 557,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 560,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 562,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 562,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 563,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 563,
+      "column": 61
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 565,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 565,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 566,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 566,
+      "column": 65
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 568,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 568,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 569,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 574,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 582,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 582,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 583,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 583,
+      "column": 75
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 585,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 585,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 586,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 586,
+      "column": 60
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 589,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 589,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 590,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 594,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 596,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 596,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 597,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 600,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 602,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 602,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 603,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 603,
+      "column": 74
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 605,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 605,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 606,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 606,
+      "column": 60
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 609,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 609,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 610,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 614,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 616,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 616,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 617,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 620,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 634,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 634,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 635,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 635,
+      "column": 59
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 637,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 637,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 638,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 638,
+      "column": 72
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 641,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 641,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 642,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 642,
+      "column": 50
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 645,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 645,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 646,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 646,
+      "column": 58
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 648,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 648,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 649,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 652,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 654,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 654,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 655,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 660,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 662,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 662,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 663,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 663,
+      "column": 35
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 665,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 665,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 666,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 666,
+      "column": 25
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 668,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 668,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 669,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 674,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 676,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 676,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 677,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 677,
+      "column": 67
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 679,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 679,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 680,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 683,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 685,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 685,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 686,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 686,
+      "column": 71
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 690,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 690,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 691,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 693,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 695,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 695,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 696,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 699,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 701,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 701,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 702,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 707,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 709,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 709,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 710,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 710,
+      "column": 61
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 712,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 712,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 712,
+      "column": 47
+    },
+    "proof_end_pos": {
+      "line": 712,
+      "column": 79
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 714,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 714,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 715,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 715,
+      "column": 55
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 717,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 717,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 717,
+      "column": 29
+    },
+    "proof_end_pos": {
+      "line": 717,
+      "column": 47
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 718,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 718,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 718,
+      "column": 29
+    },
+    "proof_end_pos": {
+      "line": 718,
+      "column": 47
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 719,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 719,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 719,
+      "column": 29
+    },
+    "proof_end_pos": {
+      "line": 719,
+      "column": 47
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 721,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 721,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 722,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 722,
+      "column": 54
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 724,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 724,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 725,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 731,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 733,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 733,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 734,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 739,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 741,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 741,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 742,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 747,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 749,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 749,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 750,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 754,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 758,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 758,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 759,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 759,
+      "column": 28
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 762,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 762,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 763,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 763,
+      "column": 24
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 776,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 776,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 777,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 787,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 790,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 790,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 790,
+      "column": 56
+    },
+    "proof_end_pos": {
+      "line": 790,
+      "column": 74
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 802,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 802,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 803,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 803,
+      "column": 64
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 805,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 805,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 806,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 817,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 819,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 819,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 820,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 826,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 828,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 828,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 829,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 829,
+      "column": 57
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 831,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 831,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 832,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 837,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 839,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 839,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 840,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 840,
+      "column": 61
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 842,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 842,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 843,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 845,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  },
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/realprop.v",
+    "theorem_start_pos": {
+      "line": 847,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 847,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 848,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 861,
+      "column": 4
+    },
+    "hash": "835860e799bd9847604d957f8349a7a9a06987e063463a3a64daa26c207e8cff"
+  }
+]

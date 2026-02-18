@@ -1,0 +1,827 @@
+[
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 36
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 65
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 42,
+      "column": 19
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 44,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 19
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 47,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 47,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 48,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 60
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 61,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 61,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 62,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 72,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 73,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 83,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 91,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 93,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 94,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 97,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 99,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 100,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 109,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 109,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 110,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 75
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 121,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 123,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 123,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 124,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 64
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 133,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 134,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 138,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 140,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 141,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 142,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 154,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 156,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 156,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 157,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 161,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 163,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 164,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 169,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 175,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 175,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 176,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 183,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 185,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 185,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 186,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 190,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 192,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 192,
+      "column": 105
+    },
+    "proof_start_pos": {
+      "line": 193,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 204,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 204,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 205,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 205,
+      "column": 80
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 207,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 207,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 208,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 208,
+      "column": 80
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/cut_minus.v",
+    "theorem_start_pos": {
+      "line": 243,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 243,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 244,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 254,
+      "column": 6
+    },
+    "hash": "26f136f8a17b06845e68f6a1210951b7cc195c4345094d8ab9072c6819aeb2a8"
+  }
+]

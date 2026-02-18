@@ -1,0 +1,46 @@
+{
+  "project": {
+    "dir_name": "pnvrocqlib",
+    "split": {
+      "dir_name": "cutoff-repos",
+      "thm_dir_name": "cutoff-theorems"
+    },
+    "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+    "compile_args": [
+      "-Q",
+      "theories",
+      "PnV"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "cutoff-repos/pnvrocqlib/theories/Prelude/Prelude.v",
+      "cutoff-repos/pnvrocqlib/theories/Prelude/ClassicalFacts.v",
+      "cutoff-repos/pnvrocqlib/theories/Prelude/Notations.v",
+      "cutoff-repos/pnvrocqlib/theories/Prelude/ConstructiveFacts.v",
+      "cutoff-repos/pnvrocqlib/theories/Prelude/SfLib.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/BasicFol.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/HilbertFol.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/ClassicalFol.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/ClassicalPropositionalLogic.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/MuRec.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/HilbertFol2.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/PropositionalLogic.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/BasicFol2.v",
+      "cutoff-repos/pnvrocqlib/theories/Logic/PrimRec.v",
+      "cutoff-repos/pnvrocqlib/theories/Data/Vector.v",
+      "cutoff-repos/pnvrocqlib/theories/Data/Graph.v",
+      "cutoff-repos/pnvrocqlib/theories/Data/Aczel.v",
+      "cutoff-repos/pnvrocqlib/theories/Math/ThN.v",
+      "cutoff-repos/pnvrocqlib/theories/Math/DomainTheory.v",
+      "cutoff-repos/pnvrocqlib/theories/Math/ClassicalDomainTheory.v",
+      "cutoff-repos/pnvrocqlib/theories/Math/OrderTheory.v",
+      "cutoff-repos/pnvrocqlib/theories/Math/BooleanAlgebra.v",
+      "cutoff-repos/pnvrocqlib/theories/Index/Index.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 688
+  }
+}

@@ -1,0 +1,629 @@
+[
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 20,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 38,
+      "column": 4
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 65,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 66,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 55
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 68,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 69,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 48
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 102,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 102,
+      "column": 115
+    },
+    "proof_start_pos": {
+      "line": 103,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 112,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 117,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 179,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 179,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 180,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 186,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 188,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 188,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 189,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 189,
+      "column": 63
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 196,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 196,
+      "column": 98
+    },
+    "proof_start_pos": {
+      "line": 197,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 87
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 199,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 199,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 200,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 71
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 221,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 222,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 223,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 234,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 235,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 236,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 236,
+      "column": 70
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 240,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 241,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 242,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 242,
+      "column": 67
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 264,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 268,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 269,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 270,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 279,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 286,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 287,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 288,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 292,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 294,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 295,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 296,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 299,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 301,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 302,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 303,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 307,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  },
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/series.v",
+    "theorem_start_pos": {
+      "line": 309,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 310,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 311,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 314,
+      "column": 6
+    },
+    "hash": "3ae24bdf4cfb88218d14fd7b3eae4a55c660e2e69d31f25ad96ae698cfb6faba"
+  }
+]

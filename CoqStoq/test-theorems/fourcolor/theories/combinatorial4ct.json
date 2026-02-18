@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/combinatorial4ct.v",
+    "theorem_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 16,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 17,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "ab1e12f760130d4dc799b3022fc0b59b443257f9560c68d330b6d5d082ff638e"
+  }
+]

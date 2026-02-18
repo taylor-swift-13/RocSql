@@ -1,0 +1,48 @@
+{
+  "project": {
+    "dir_name": "zorns-lemma",
+    "split": {
+      "dir_name": "test-repos",
+      "thm_dir_name": "test-theorems"
+    },
+    "commit_hash": "aaf46b0c5f7857ce9211cbaaf36f184ca810e0e8",
+    "compile_args": [
+      "-R",
+      ".",
+      "ZornsLemma"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "test-repos/zorns-lemma/InfiniteTypes.v",
+      "test-repos/zorns-lemma/Proj1SigInjective.v",
+      "test-repos/zorns-lemma/Powerset_facts.v",
+      "test-repos/zorns-lemma/Quotients.v",
+      "test-repos/zorns-lemma/Ordinals.v",
+      "test-repos/zorns-lemma/FunctionProperties.v",
+      "test-repos/zorns-lemma/FiniteIntersections.v",
+      "test-repos/zorns-lemma/EnsemblesUtf8.v",
+      "test-repos/zorns-lemma/ZornsLemma.v",
+      "test-repos/zorns-lemma/CountableTypes.v",
+      "test-repos/zorns-lemma/EnsemblesTactics.v",
+      "test-repos/zorns-lemma/DependentTypeChoice.v",
+      "test-repos/zorns-lemma/Classical_Wf.v",
+      "test-repos/zorns-lemma/Relation_Definitions_Implicit.v",
+      "test-repos/zorns-lemma/Cardinals.v",
+      "test-repos/zorns-lemma/WellOrders.v",
+      "test-repos/zorns-lemma/EnsemblesImplicit.v",
+      "test-repos/zorns-lemma/DecidableDec.v",
+      "test-repos/zorns-lemma/FiniteTypes.v",
+      "test-repos/zorns-lemma/IndexedFamilies.v",
+      "test-repos/zorns-lemma/EnsemblesSpec.v",
+      "test-repos/zorns-lemma/Families.v",
+      "test-repos/zorns-lemma/InverseImage.v",
+      "test-repos/zorns-lemma/CSB.v",
+      "test-repos/zorns-lemma/ImageImplicit.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 175
+  }
+}

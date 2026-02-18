@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "theory/ua_mapped_operations.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 45,
+      "column": 6
+    },
+    "hash": "bfd0d3e17302dedd08d631eed2cbda01803f8c527a11847d4ea7b79976823391"
+  }
+]

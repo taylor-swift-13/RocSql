@@ -1,0 +1,134 @@
+[
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/quadraticAcc_Qquadratic_sign.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 136,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 137,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 374,
+      "column": 4
+    },
+    "hash": "ea23bf4f5637aee5cb0c0fdfd518b6b497c68749eebfd54a0c0ab5f370eb554d"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/quadraticAcc_Qquadratic_sign.v",
+    "theorem_start_pos": {
+      "line": 379,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 399,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 400,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 635,
+      "column": 4
+    },
+    "hash": "ea23bf4f5637aee5cb0c0fdfd518b6b497c68749eebfd54a0c0ab5f370eb554d"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/quadraticAcc_Qquadratic_sign.v",
+    "theorem_start_pos": {
+      "line": 638,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 657,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 658,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 858,
+      "column": 4
+    },
+    "hash": "ea23bf4f5637aee5cb0c0fdfd518b6b497c68749eebfd54a0c0ab5f370eb554d"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/quadraticAcc_Qquadratic_sign.v",
+    "theorem_start_pos": {
+      "line": 862,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 882,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 883,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1083,
+      "column": 4
+    },
+    "hash": "ea23bf4f5637aee5cb0c0fdfd518b6b497c68749eebfd54a0c0ab5f370eb554d"
+  }
+]

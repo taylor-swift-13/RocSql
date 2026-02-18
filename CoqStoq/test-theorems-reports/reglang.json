@@ -1,0 +1,35 @@
+{
+  "project": {
+    "dir_name": "reglang",
+    "split": {
+      "dir_name": "test-repos",
+      "thm_dir_name": "test-theorems"
+    },
+    "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+    "compile_args": [
+      "-Q",
+      "theories",
+      "RegLang"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "test-repos/reglang/theories/languages.v",
+      "test-repos/reglang/theories/misc.v",
+      "test-repos/reglang/theories/shepherdson.v",
+      "test-repos/reglang/theories/nfa.v",
+      "test-repos/reglang/theories/regexp.v",
+      "test-repos/reglang/theories/minimization.v",
+      "test-repos/reglang/theories/dfa.v",
+      "test-repos/reglang/theories/vardi.v",
+      "test-repos/reglang/theories/myhill_nerode.v",
+      "test-repos/reglang/theories/wmso.v",
+      "test-repos/reglang/theories/two_way.v",
+      "test-repos/reglang/theories/setoid_leq.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 318
+  }
+}

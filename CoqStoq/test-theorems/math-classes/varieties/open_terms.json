@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "varieties/open_terms.v",
+    "theorem_start_pos": {
+      "line": 80,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 6
+    },
+    "hash": "7d0aa2b4f18f6b255c55324bcc362cf5dccea6aa36a030b0892347fb483edea2"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "project": {
+    "dir_name": "stalmarck",
+    "split": {
+      "dir_name": "val-repos",
+      "thm_dir_name": "val-theorems"
+    },
+    "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+    "compile_args": [
+      "-Q",
+      "theories",
+      "Stalmarck"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "val-repos/stalmarck/src/Extract.v",
+      "val-repos/stalmarck/theories/Algorithm/ltState.v",
+      "val-repos/stalmarck/theories/Algorithm/equalBefore.v",
+      "val-repos/stalmarck/theories/Algorithm/rZ.v",
+      "val-repos/stalmarck/theories/Algorithm/wfArray.v",
+      "val-repos/stalmarck/theories/Algorithm/OrderedListEq.v",
+      "val-repos/stalmarck/theories/Algorithm/interImplement2_ex.v",
+      "val-repos/stalmarck/theories/Algorithm/doTriplet.v",
+      "val-repos/stalmarck/theories/Algorithm/OrderedListEq_ex.v",
+      "val-repos/stalmarck/theories/Algorithm/stateDec.v",
+      "val-repos/stalmarck/theories/Algorithm/interImplement.v",
+      "val-repos/stalmarck/theories/Algorithm/algoDilemma1.v",
+      "val-repos/stalmarck/theories/Algorithm/algoDotriplets.v",
+      "val-repos/stalmarck/theories/Algorithm/interState.v",
+      "val-repos/stalmarck/theories/Algorithm/normalize.v",
+      "val-repos/stalmarck/theories/Algorithm/doTriplets.v",
+      "val-repos/stalmarck/theories/Algorithm/algoTrace.v",
+      "val-repos/stalmarck/theories/Algorithm/stalmarck.v",
+      "val-repos/stalmarck/theories/Algorithm/LetP.v",
+      "val-repos/stalmarck/theories/Algorithm/memoryImplement.v",
+      "val-repos/stalmarck/theories/Algorithm/makeTriplet.v",
+      "val-repos/stalmarck/theories/Algorithm/refl.v",
+      "val-repos/stalmarck/theories/Algorithm/algoDotriplet.v",
+      "val-repos/stalmarck/theories/Algorithm/complete.v",
+      "val-repos/stalmarck/theories/Algorithm/algoRun.v",
+      "val-repos/stalmarck/theories/Algorithm/addArray.v",
+      "val-repos/stalmarck/theories/Algorithm/restrictState.v",
+      "val-repos/stalmarck/theories/Algorithm/sTactic.v",
+      "val-repos/stalmarck/theories/Algorithm/triplet.v",
+      "val-repos/stalmarck/theories/Algorithm/interImplement2.v",
+      "val-repos/stalmarck/theories/Algorithm/stateExtra.v",
+      "val-repos/stalmarck/theories/Algorithm/state.v",
+      "val-repos/stalmarck/theories/Algorithm/PolyListAux.v",
+      "val-repos/stalmarck/theories/Algorithm/algoStalmarck.v",
+      "val-repos/stalmarck/theories/Algorithm/BoolAux.v",
+      "val-repos/stalmarck/theories/Algorithm/unionState.v",
+      "val-repos/stalmarck/theories/Algorithm/trace.v"
+    ],
+    "errored_files": [
+      "val-repos/stalmarck/theories/Tactic/StalTac_ex.v",
+      "val-repos/stalmarck/theories/Tactic/StalTac.v"
+    ],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 551
+  }
+}

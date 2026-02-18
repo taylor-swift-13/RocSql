@@ -1,0 +1,54 @@
+{
+  "project": {
+    "dir_name": "bb5",
+    "split": {
+      "dir_name": "cutoff-repos",
+      "thm_dir_name": "cutoff-theorems"
+    },
+    "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+    "compile_args": [
+      "-Q",
+      ".",
+      "BusyCoq"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "cutoff-repos/bb5/Finned4.v",
+      "cutoff-repos/bb5/Individual52.v",
+      "cutoff-repos/bb5/Skelet33.v",
+      "cutoff-repos/bb5/Finned5.v",
+      "cutoff-repos/bb5/Flip.v",
+      "cutoff-repos/bb5/Skelet10.v",
+      "cutoff-repos/bb5/FixedBin.v",
+      "cutoff-repos/bb5/Permute.v",
+      "cutoff-repos/bb5/Finned.v",
+      "cutoff-repos/bb5/Individual.v",
+      "cutoff-repos/bb5/Finned2.v",
+      "cutoff-repos/bb5/Skelet15.v",
+      "cutoff-repos/bb5/Skelet34.v",
+      "cutoff-repos/bb5/LibTactics.v",
+      "cutoff-repos/bb5/Helper.v",
+      "cutoff-repos/bb5/BB52Statement.v",
+      "cutoff-repos/bb5/Skelet35.v",
+      "cutoff-repos/bb5/Compute.v",
+      "cutoff-repos/bb5/Finned3.v",
+      "cutoff-repos/bb5/Finned1.v",
+      "cutoff-repos/bb5/ShiftOverflowBins.v",
+      "cutoff-repos/bb5/ShiftOverflow.v",
+      "cutoff-repos/bb5/TM.v",
+      "cutoff-repos/bb5/BB52.v",
+      "cutoff-repos/bb5/Skelet26.v",
+      "cutoff-repos/bb5/Skelet17.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [
+      "cutoff-repos/bb5/BB42Theorem.v",
+      "cutoff-repos/bb5/BB52Theorem.v",
+      "cutoff-repos/bb5/BB24Theorem.v",
+      "cutoff-repos/bb5/Skelet1.v"
+    ],
+    "lsp_error_files": [],
+    "num_theorems": 483
+  }
+}

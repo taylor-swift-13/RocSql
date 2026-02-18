@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/task486to506.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 15,
+      "column": 4
+    },
+    "hash": "63d9c067f688e02b5742ad5d4fcc21b68a27167440b3016d190e3045e31e5155"
+  }
+]

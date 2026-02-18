@@ -1,0 +1,66 @@
+-arg -w -arg -notation-overridden
+-arg -w -arg -redundant-canonical-projection
+-arg -w -arg -projection-no-head-constant
+-arg -w -arg -duplicate-clear
+-arg -w -arg -elpi.add-const-for-axiom-or-sectionvar
+-arg -w -arg -ambiguous-paths
+
+-Q theories GraphTheory
+
+## preliminary modules
+theories/core/edone.v
+theories/core/bounded.v
+theories/core/preliminaries.v
+theories/core/setoid_bigop.v
+theories/core/finmap_plus.v
+theories/core/set_tac.v
+theories/core/bij.v
+theories/core/finite_quotient.v
+theories/core/equiv.v
+theories/core/arc.v
+
+## general purpose graph library (JAR19)
+theories/core/digraph.v
+theories/core/sgraph.v
+theories/core/helly.v
+theories/core/connectivity.v
+theories/core/treewidth.v
+theories/core/minor.v
+theories/core/excluded.v
+theories/core/checkpoint.v
+theories/core/cp_minor.v
+theories/core/smerge.v #(ITP 21)
+
+## soundness and completeness for 2pdom (CPP20)
+theories/core/structures.v
+theories/core/mgraph.v
+theories/core/pttdom.v
+theories/core/mgraph2.v
+theories/core/rewriting.v
+theories/core/reduction.v
+theories/core/open_confluence.v
+theories/core/transfer.v
+theories/core/completeness.v
+
+## extraction for of 2p terms from TW2 graphs (ITP18 / JAR19)
+theories/core/ptt.v
+theories/core/skeleton.v
+theories/core/mgraph2_tw2.v
+theories/core/extraction_def.v
+theories/core/extraction_iso.v
+theories/core/extraction_top.v
+
+## Domination Theory
+theories/core/dom.v
+
+## Graph Coloring
+theories/core/partition.v
+theories/core/coloring.v
+theories/core/wpgt.v
+
+## Kuratowski's/Wagner's theorem (ITP 21)
+theories/planar/hmap_ops.v
+theories/planar/hcycle.v
+theories/planar/embedding.v
+theories/planar/K4plane.v
+theories/planar/wagner.v

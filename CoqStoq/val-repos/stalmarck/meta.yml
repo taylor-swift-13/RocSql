@@ -1,0 +1,134 @@
+---
+fullname: Stalmarck
+shortname: stalmarck
+organization: coq-community
+community: true
+action: true
+nix: true
+doi: 10.1007/3-540-44659-1_24
+plugin: true
+branch: v8.20
+dune: false
+
+synopsis: Verified implementation of Stålmarck's algorithm for proving tautologies in Coq
+
+description: |-
+  A two-level approach to prove tautologies using Stålmarck's
+  algorithm in Coq.
+
+publications:
+- pub_doi: 10.1007/3-540-44659-1_24
+  pub_url: https://www.irif.fr/~letouzey/download/stalmarck.ps.gz
+  pub_title: Formalizing Stålmarck's Algorithm in Coq
+
+authors:
+- name: Pierre Letouzey
+  initial: true
+- name: Laurent Théry
+  initial: true
+
+maintainers:
+- name: Karl Palmskog
+  nickname: palmskog
+
+opam-file-maintainer: palmskog@gmail.com
+
+opam-file-version: 8.20.dev
+
+license:
+  fullname: GNU Lesser General Public License v2.1 or later
+  identifier: LGPL-2.1-or-later
+
+supported_coq_versions:
+  text: 8.20 (use the corresponding branch or release for other Coq versions)
+  opam: '{>= "8.20" & < "8.21"}'
+
+tested_coq_nix_versions:
+- coq_version: '8.20'
+
+tested_coq_opam_versions:
+- version: '8.20'
+
+namespace: Stalmarck.Algorithm
+
+keywords:
+- name: boolean formula
+- name: tautology checker
+
+categories:
+- name: Computer Science/Decision Procedures and Certified Algorithms/Decision procedures
+
+documentation: |
+  ## Documentation
+
+  This project is composed of:
+
+  - A Coq proof of correctness of the algorithm, as described in the paper
+    [A Formalization of Stålmarck's Algorithm in Coq][paper-link], published
+    in the proceedings of TPHOLs 2000.
+  - an implementation of the algorithm. With respect to the paper, this
+    implementation is completely functional and can be used inside Coq.
+  - A reflected Coq tactic `staltac` that uses the extracted code to compute
+    an execution trace; the trace checker is then called inside Coq.
+  - A standalone checker program `stalmarck` which takes as input a formula in
+    textual format and reports whether it can be certified as a tautology.
+
+  See `algoRun.v` for examples how to use the algorithm inside Coq, and
+  see `StalTac_ex.v` for examples how to use the reflected tactic.
+
+  [paper-link]: https://www.irif.fr/~letouzey/download/stalmarck.ps.gz
+
+  ## Tautology Checker
+
+  The `src` directory contains the code for a standalone tautology checker
+  using the implementation of Stålmarck's algorithm extracted from Coq.
+
+  ### Running the checker
+
+  ```shell
+  stalmarck <level> <file>
+  ```
+  where:
+  - `<level>` is an integer controling depth of dilemma. Usual values:
+    - 0: does only propagation.
+    - 1: dilemma upon one variable at the same time.
+    - 2: dilemma can be done upon two variables at the same time; more than 2 may take *very* long.
+  - `<file>` is the file containing the boolean formula.
+  
+  ## Boolean formula syntax
+  
+  | Concept  | Syntax |
+  | -------- | ------ |
+  | Comments | `//`  (reading is suspended until the end of the line) |
+  | Variable | any alphanumeric sequence plus the character `_` |
+  | Not      | `~` |
+  | And      | `&` |
+  | Or       | `#` |
+  | Implication |	`->`  |
+  | Equivalence |	`<->` |
+  | Parentheses |	`( )` |
+  | True value  | `<T>` |
+  | False value |	`<F>` |
+  
+  Priority of connectives, from lower to higher:
+  - `<->`, `->` (associate to the right)
+  - `#` (associates to the left)
+  - `&` (associates to the left)
+  - `~`
+  
+  ## Output
+  
+  The only interesting output is `Tautology` (and exit code 0).
+  The other output is `Don't know` (and exit code 1): either the formula
+  is not a tautology, or it is one but the program cannot conclude this
+  (insufficient level).
+  
+  ## Example
+  
+  An example file with a tautology ([`tests/ztwaalf1_be`](tests/ztwaalf1_be))
+  is included, and can be checked as follows:
+  ```shell
+  stalmarck 1 tests/ztwaalf1_be
+  Tautology
+  ```
+---

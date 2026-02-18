@@ -1,0 +1,6 @@
+(coq.theory
+ (name Buchberger)
+ (package coq-buchberger)
+ (synopsis "Verified implementation in Coq of Buchberger's algorithm for computing Gröbner bases")
+ (modules :standard \ mCoefStructure mOrderStructure hBuchAux hBuch hCoefStructure hComb hEq hMinus hMults hMult hOrderStructure hOrder hPlus hReduceplus hReducestar hReduce hSpminus hSpoly hTerm hWfRO)
+ (flags :standard -w -fragile-hint-constr))

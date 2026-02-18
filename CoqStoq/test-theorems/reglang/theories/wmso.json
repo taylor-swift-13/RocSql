@@ -1,0 +1,2015 @@
+[
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 60,
+      "column": 62
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 62,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 80,
+      "column": 56
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 93,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 86
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 6
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 110,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 110,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 111,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 111,
+      "column": 29
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 114,
+      "column": 19
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 188,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 202,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 205,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 217,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 219,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 219,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 223,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 227,
+      "column": 16
+    },
+    "proof_start_pos": {
+      "line": 228,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 233,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 235,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 236,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 241,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 243,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 245,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 252,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 261,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 263,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 264,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 265,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 278,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 280,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 281,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 282,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 286,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 288,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 289,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 294,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 296,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 296,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 297,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 306,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 310,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 311,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 316,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 320,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 321,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 322,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 342,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 346,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 348,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 377,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 379,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 380,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 381,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 381,
+      "column": 58
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 383,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 384,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 385,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 428,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 430,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 431,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 432,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 441,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 449,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 449,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 450,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 460,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 462,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 462,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 463,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 463,
+      "column": 57
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 465,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 465,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 466,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 466,
+      "column": 85
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 468,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 468,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 469,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 476,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 478,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 478,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 479,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 482,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 486,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 486,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 487,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 490,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 503,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 503,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 504,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 504,
+      "column": 45
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 509,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 509,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 510,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 510,
+      "column": 47
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 512,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 512,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 513,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 513,
+      "column": 17
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 515,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 515,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 516,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 516,
+      "column": 17
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 520,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 520,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 521,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 521,
+      "column": 17
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 526,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 526,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 527,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 530,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 535,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 535,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 536,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 536,
+      "column": 74
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 545,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 546,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 547,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 552,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 560,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 561,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 562,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 565,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 567,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 568,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 569,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 575,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 579,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 580,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 581,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 593,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 613,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 614,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 615,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 615,
+      "column": 85
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 617,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 618,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 619,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 623,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 625,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 626,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 627,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 631,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 639,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 640,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 641,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 646,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 650,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 651,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 652,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 658,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 662,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 662,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 663,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 670,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 675,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 676,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 677,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 686,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 690,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 690,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 691,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 700,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 704,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 705,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 706,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 713,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 720,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 720,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 721,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 721,
+      "column": 52
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 723,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 723,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 724,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 724,
+      "column": 59
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 726,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 726,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 727,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 727,
+      "column": 41
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 731,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 732,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 733,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 753,
+      "column": 4
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 764,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 765,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 766,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 792,
+      "column": 6
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 799,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 801,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 802,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 816,
+      "column": 6
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 829,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 834,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 835,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 858,
+      "column": 6
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 863,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 864,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 865,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 874,
+      "column": 6
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 878,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 880,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 881,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 888,
+      "column": 6
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  },
+  {
+    "project": {
+      "dir_name": "reglang",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "db8be63ec40349e529b6a57c8bcee1acb3f90ceb",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "RegLang"
+      ]
+    },
+    "path": "theories/wmso.v",
+    "theorem_start_pos": {
+      "line": 897,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 897,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 898,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 954,
+      "column": 6
+    },
+    "hash": "25f15a9c831babd55dfcc1106f1189e94e54c85d6af98f67e36a315ae64aea57"
+  }
+]

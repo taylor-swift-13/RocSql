@@ -1,0 +1,75 @@
+{
+  "project": {
+    "dir_name": "coqeal",
+    "split": {
+      "dir_name": "val-repos",
+      "thm_dir_name": "val-theorems"
+    },
+    "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+    "compile_args": [
+      "-R",
+      ".",
+      "CoqEAL"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "val-repos/coqeal/refinements/seqmx.v",
+      "val-repos/coqeal/refinements/param.v",
+      "val-repos/coqeal/refinements/binord.v",
+      "val-repos/coqeal/refinements/hrel.v",
+      "val-repos/coqeal/refinements/karatsuba.v",
+      "val-repos/coqeal/refinements/multipoly.v",
+      "val-repos/coqeal/refinements/poly_op.v",
+      "val-repos/coqeal/refinements/pos.v",
+      "val-repos/coqeal/refinements/binint.v",
+      "val-repos/coqeal/refinements/rational.v",
+      "val-repos/coqeal/refinements/refinements.v",
+      "val-repos/coqeal/refinements/seqmx_complements.v",
+      "val-repos/coqeal/refinements/poly_div.v",
+      "val-repos/coqeal/refinements/trivial_seq.v",
+      "val-repos/coqeal/refinements/seqpoly.v",
+      "val-repos/coqeal/refinements/hpoly.v",
+      "val-repos/coqeal/refinements/boolF2.v",
+      "val-repos/coqeal/refinements/binrat.v",
+      "val-repos/coqeal/refinements/binnat.v",
+      "val-repos/coqeal/refinements/bareiss_eff.v",
+      "val-repos/coqeal/theory/similar.v",
+      "val-repos/coqeal/theory/jordan.v",
+      "val-repos/coqeal/theory/smith.v",
+      "val-repos/coqeal/theory/coherent.v",
+      "val-repos/coqeal/theory/kaplansky.v",
+      "val-repos/coqeal/theory/frobenius_form.v",
+      "val-repos/coqeal/theory/binetcauchy.v",
+      "val-repos/coqeal/theory/dvdring.v",
+      "val-repos/coqeal/theory/bareiss_dvdring.v",
+      "val-repos/coqeal/theory/rank.v",
+      "val-repos/coqeal/theory/ssrcomplements.v",
+      "val-repos/coqeal/theory/companion.v",
+      "val-repos/coqeal/theory/gauss.v",
+      "val-repos/coqeal/theory/minor.v",
+      "val-repos/coqeal/theory/toomcook.v",
+      "val-repos/coqeal/theory/ssralg_ring_tac.v",
+      "val-repos/coqeal/theory/polydvd.v",
+      "val-repos/coqeal/theory/closed_poly.v",
+      "val-repos/coqeal/theory/perm_eq_image.v",
+      "val-repos/coqeal/theory/karatsuba.v",
+      "val-repos/coqeal/theory/mxstructure.v",
+      "val-repos/coqeal/theory/bareiss.v",
+      "val-repos/coqeal/theory/smithpid.v",
+      "val-repos/coqeal/theory/edr.v",
+      "val-repos/coqeal/theory/fpmod.v",
+      "val-repos/coqeal/theory/stronglydiscrete.v",
+      "val-repos/coqeal/theory/strassen.v",
+      "val-repos/coqeal/theory/atomic_operations.v",
+      "val-repos/coqeal/theory/smith_complements.v",
+      "val-repos/coqeal/refinements/examples/irred.v"
+    ],
+    "errored_files": [
+      "val-repos/coqeal/refinements/ring.v"
+    ],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 1108
+  }
+}

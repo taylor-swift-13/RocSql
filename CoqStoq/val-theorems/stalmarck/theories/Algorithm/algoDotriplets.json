@@ -1,0 +1,332 @@
+[
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 74,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 96,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 141,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 246,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 270,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 271,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 317,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 319,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 322,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 323,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 327,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 329,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 331,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 332,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 354,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 356,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 366,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 367,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 419,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 421,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 423,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 424,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 437,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoDotriplets.v",
+    "theorem_start_pos": {
+      "line": 458,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 460,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 461,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 475,
+      "column": 4
+    },
+    "hash": "f439dec95f3bc5fad0594c0b5fc92b7ecf0b821a2144b87344b5aaa76dcb20f4"
+  }
+]

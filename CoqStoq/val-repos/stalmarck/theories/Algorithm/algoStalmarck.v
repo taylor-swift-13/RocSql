@@ -1,0 +1,109 @@
+(* This program is free software; you can redistribute it and/or      *)
+(* modify it under the terms of the GNU Lesser General Public License *)
+(* as published by the Free Software Foundation; either version 2.1   *)
+(* of the License, or (at your option) any later version.             *)
+(*                                                                    *)
+(* This program is distributed in the hope that it will be useful,    *)
+(* but WITHOUT ANY WARRANTY; without even the implied warranty of     *)
+(* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the      *)
+(* GNU General Public License for more details.                       *)
+(*                                                                    *)
+(* You should have received a copy of the GNU Lesser General Public   *)
+(* License along with this program; if not, write to the Free         *)
+(* Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA *)
+(* 02110-1301 USA                                                     *)
+
+(** * algoStalmarck
+
+Pierre Letouzey & Laurent Thery
+*)
+
+From Stalmarck Require Export algoDilemma1.
+
+Section ostal.
+
+Variable getT : rZ -> list triplet.
+Variable LL : list triplet.
+Hypothesis getTCorrect : forall a : rZ, incl (getT a) LL.
+Variable n : nat.
+
+(** We iterate saturating from level n1 to n1+m *)
+Fixpoint stalN (L : list rZ) (n1 m : nat) {struct m} : 
+ rArray vM -> mbDT :=
+  fun Ar =>
+  match dilemmaN getT n L n n1 Ar with
+  | quatuor Ar2 true L2 T2 => quatuor _ _ _ _ Ar2 true L2 T2
+  | quatuor Ar2 false L2 T2 =>
+      match m with
+      | O => quatuor _ _ _ _ Ar2 false L2 T2
+      | S m1 =>
+          match stalN nil (S n1) m1 Ar2 with
+          | quatuor Ar4 b4 L4 T4 =>
+              quatuor _ _ _ _ Ar4 b4 (appendRz L2 L4) (appTrace T2 T4)
+          end
+      end
+  end.
+
+Theorem stalNCorrect :
+ forall (L : list rZ) (n1 m : nat) (Ar : rArray vM) (S : State),
+ FStalCorrect Ar LL S (stalN L n1 m Ar).
+Proof.
+intros L n1 m; generalize n1 L; elim m; simpl in |- *; auto with stalmarck; clear n1 L.
+intros n1 L Ar S;
+ generalize (dilemmaNCorrect getT LL getTCorrect n L n n1 Ar).
+case (dilemmaN getT n L n n1 Ar); auto with stalmarck.
+intros Ar1 b1 L1 T1; case b1; auto with stalmarck.
+intros n0 H' n1 L Ar S0.
+generalize (dilemmaNCorrect getT LL getTCorrect n L n n1 Ar).
+case (dilemmaN getT n L n n1 Ar); auto with stalmarck.
+intros Ar1 b1 L1 T1; case b1; auto with stalmarck.
+intros H'0.
+generalize (H' (S n1) nil Ar1).
+case (stalN nil (S n1) n0 Ar1).
+intros r b l t H'1.
+apply FStalCorrectComp with (Ar' := Ar1); auto with stalmarck.
+Qed.
+
+(** We first do a propagation then a dilemma1 .. then dilemma m*)
+Definition stal (m : nat) (Ar : rArray vM) (a b : rZ) : mbDT :=
+  match addEqMem Ar a b with
+  | triple Ar1 true L1 => quatuor _ _ _ _ Ar true nil emptyTrace
+  | triple Ar1 false L1 =>
+      match stalN L1 0 m Ar1 with
+      | quatuor Ar2 b2 L2 T2 => quatuor _ _ _ _ Ar2 b2 (appendRz L1 L2) T2
+      end
+  end.
+
+Opaque addEqMem.
+
+Theorem stalCorrect :
+ forall (m : nat) (Ar : rArray vM) (a b : rZ) (S : State),
+ wellFormedArray Ar ->
+ rArrayState Ar S ->
+ match stal m Ar a b with
+ | quatuor Ar' false L T => True
+ | quatuor Ar' true L T =>
+     exists S' : State,
+       stalmarckP (addEq (a, b) S) LL S' /\
+       contradictory S' /\ evalTrace (addEq (a, b) S) T S'
+ end.
+Proof.
+intros m Ar a b S H' H'0; unfold stal in |- *.
+generalize (addEqMemCorrect Ar a b S).
+case (addEqMem Ar a b).
+intros Ar1 b1 L1; case b1.
+intros H'1; exists (addEq (pair a b) S); repeat (split; auto with stalmarck).
+intros H'1; elim H'1;
+ [ intros H'4 H'5; elim H'5; intros H'6 H'7; elim H'7; intros H'8 H'9;
+    clear H'7 H'5 H'1
+ | clear H'1
+ | clear H'1 ]; auto with stalmarck.
+generalize (stalNCorrect L1 0 m Ar1).
+case (stalN L1 0 m Ar1).
+intros Ar2 b2 L2 T2; case b2; auto with stalmarck.
+unfold FStalCorrect in |- *; simpl in |- *; auto with stalmarck.
+Qed.
+
+Transparent addEqMem.
+
+End ostal.

@@ -1,0 +1,629 @@
+[
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 22,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 29,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 36,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 45,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 94,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 95,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 132,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 134,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 139,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 141,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 145,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 162,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 170,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 172,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 173,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 185,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 186,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 191,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 193,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 202,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 210,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 212,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 213,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 214,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 221,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 239,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 240,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 313,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 334,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 339,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 340,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 376,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 384,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 386,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 387,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 395,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 411,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 412,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 413,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 420,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 429,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 430,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 431,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 434,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/bareiss.v",
+    "theorem_start_pos": {
+      "line": 439,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 439,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 440,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 445,
+      "column": 4
+    },
+    "hash": "9aec55fb9ed96b08db4b19f73ede1fe9aad5b15bee0d2f83c5022b1910a3596f"
+  }
+]

@@ -1,0 +1,6113 @@
+[
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 72,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 164,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 166,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 175,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 243,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 253,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 254,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 299,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 301,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 312,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 313,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 323,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 334,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 335,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 422,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 424,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 433,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 434,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 522,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 524,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 532,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 533,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 573,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 575,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 586,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 587,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 597,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 601,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 605,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 606,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 610,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 616,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 621,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 622,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 655,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 660,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 666,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 667,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 673,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 683,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 688,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 689,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 695,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 707,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 713,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 714,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 725,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 737,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 744,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 745,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 757,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 765,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 769,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 770,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 774,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 776,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 782,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 783,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 791,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 793,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 798,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 799,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 805,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 807,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 813,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 814,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 845,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 853,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 860,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 861,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 893,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 895,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 901,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 902,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 908,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 912,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 919,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 920,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 944,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 946,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 954,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 955,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1018,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1021,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1030,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1031,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1095,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1098,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1107,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1108,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1120,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1122,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1131,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1132,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1165,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1167,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1173,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 1174,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1181,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1185,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1192,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 1193,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1236,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1241,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1250,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 1251,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1266,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1268,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1276,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 1277,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1360,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1365,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1376,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1377,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1468,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1471,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1480,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1481,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1510,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1512,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1521,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1522,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1559,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1561,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1569,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1570,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1595,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1597,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1605,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1606,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1611,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1621,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1623,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 1624,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1631,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1633,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1638,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 1639,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1647,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1649,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1654,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 1655,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1663,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1675,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1677,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 1678,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1698,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1700,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1706,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1707,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1715,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1717,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1723,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1724,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1732,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1744,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1746,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 1747,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1767,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1769,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1775,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1776,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1784,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1786,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1792,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1793,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1801,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1815,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1822,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 1823,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1848,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1851,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1861,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1862,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1917,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1920,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1930,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1931,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1944,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1946,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1956,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1957,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1990,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 1994,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2001,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 2002,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2045,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2050,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2059,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 2060,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2075,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2080,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2092,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 2093,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2169,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2172,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2182,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 2183,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2212,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2214,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2224,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 2225,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2262,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2264,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2273,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 2274,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2299,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2301,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2310,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 2311,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2316,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2326,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2328,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 2329,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2336,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2338,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2344,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 2345,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2354,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2356,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2362,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 2363,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2372,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2384,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2386,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 2387,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2407,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2409,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2416,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 2417,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2426,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2428,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2435,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 2436,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2445,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2457,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2459,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 2460,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2480,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2482,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2489,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 2490,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2499,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2501,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2508,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 2509,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2518,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2526,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2536,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 2537,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2569,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2579,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2583,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 2584,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2589,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2591,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2599,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 2600,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2800,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2803,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2810,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 2811,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2863,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2873,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2875,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 2876,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2881,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2883,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2888,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 2889,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2896,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2908,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2913,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 2914,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2929,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2931,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2940,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 2941,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2948,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2960,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2963,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 2964,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2983,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 2985,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2993,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 2994,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3001,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3013,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3022,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 3023,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3217,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3219,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3227,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 3228,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3293,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3303,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3305,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 3306,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3311,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3313,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3319,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 3320,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3328,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3340,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3345,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 3346,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3361,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3363,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3373,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 3374,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3382,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3394,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3397,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 3398,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3417,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3419,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3427,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 3428,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3436,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3446,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3456,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 3457,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3542,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3544,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3551,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 3552,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3609,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3611,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3619,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 3620,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3653,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3655,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3674,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 3675,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3716,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3718,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3722,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 3723,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3727,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3745,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3755,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 3756,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3879,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 3881,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3893,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 3894,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4066,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4068,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4080,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 4081,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4264,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4266,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4276,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 4277,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4299,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4301,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4311,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 4312,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4363,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4373,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4375,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 4376,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4383,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4385,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4392,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 4393,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4403,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4415,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4418,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 4419,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4448,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4450,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4459,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 4460,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4470,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4482,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4485,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 4486,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4516,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "flocq/Prop/Double_rounding.v",
+    "theorem_start_pos": {
+      "line": 4518,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4527,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 4528,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4538,
+      "column": 4
+    },
+    "hash": "2519c0d2916d5dc2c348c1c6263205617d6b69e31e492b332b3d4a6833374196"
+  }
+]

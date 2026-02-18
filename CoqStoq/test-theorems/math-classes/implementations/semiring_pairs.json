@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "implementations/semiring_pairs.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 106,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 107,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 23
+    },
+    "hash": "71cfb450477cb21f31cfecb96ccdf4e47c528033ba4c69eceda570fa1c88bd0b"
+  }
+]

@@ -1,0 +1,6491 @@
+[
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 49,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 100
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 63,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 72,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 113,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 115,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 116,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 120,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 122,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 123,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 133,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 134,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 147,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 153,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 155,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 161,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 163,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 169,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 170,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 175,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 208,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 213,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 214,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 222,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 230,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 231,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 236,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 238,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 245,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 276,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 278,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 283,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 284,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 292,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 298,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 299,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 303,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 305,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 309,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 310,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 313,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 332,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 337,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 338,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 342,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 348,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 353,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 382,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 388,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 389,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 393,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 395,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 401,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 402,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 406,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 408,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 411,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 412,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 416,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 418,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 421,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 422,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 426,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 430,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 437,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 438,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 453,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 455,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 462,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 463,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 478,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 482,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 488,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 489,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 494,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 498,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 501,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 502,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 504,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 506,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 509,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 510,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 515,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 517,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 520,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 521,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 525,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 527,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 530,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 531,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 536,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 540,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 544,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 545,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 551,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 581,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 583,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 584,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 586,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 588,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 590,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 591,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 594,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 600,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 604,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 605,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 610,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 612,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 616,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 617,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 622,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 624,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 628,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 629,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 636,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 638,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 642,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 643,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 648,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 650,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 653,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 654,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 658,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 660,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 663,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 664,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 668,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 672,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 675,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 676,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 678,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 682,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 684,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 685,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 687,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 691,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 694,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 695,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 698,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 704,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 708,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 709,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 712,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 714,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 716,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 717,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 719,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 721,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 725,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 726,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 733,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 735,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 739,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 740,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 745,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 747,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 751,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 752,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 756,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 758,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 762,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 763,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 766,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 768,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 772,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 773,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 779,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 783,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 787,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 788,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 792,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 796,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 800,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 801,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 805,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 819,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 820,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 821,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 824,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 826,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 827,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 828,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 831,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 833,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 834,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 835,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 838,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 840,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 841,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 842,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 845,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 847,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 848,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 849,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 851,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 853,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 854,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 855,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 857,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 859,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 860,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 861,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 863,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 870,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 871,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 872,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 875,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 877,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 878,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 879,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 881,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 883,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 884,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 885,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 887,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 889,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 890,
+      "column": 101
+    },
+    "proof_start_pos": {
+      "line": 891,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 893,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 915,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 926,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 927,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 966,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 970,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 971,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 972,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 977,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 979,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 980,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 981,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 984,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 986,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 987,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 988,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 991,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 993,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 995,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 996,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1001,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1003,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1017,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 1018,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1040,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1047,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1069,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 1070,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1158,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1177,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1188,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 1189,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1219,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1223,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1234,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 1235,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1249,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1256,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1272,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 1273,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1308,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1353,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1357,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 1358,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1365,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1367,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1371,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 1372,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1376,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1380,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1384,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 1385,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1389,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1393,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1396,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 1397,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1399,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1401,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1404,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 1405,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1407,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1415,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1417,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 1418,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1420,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1422,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1424,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 1425,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1427,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1429,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1430,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 1431,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1433,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1435,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1438,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 1439,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1449,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1451,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1456,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 1457,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1461,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1467,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1469,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 1470,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1476,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1480,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1482,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 1483,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1486,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1488,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1490,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 1491,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1494,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1496,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1498,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 1499,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1505,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1507,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1508,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 1509,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1513,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1515,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1519,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 1520,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1525,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1553,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1554,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 1555,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1560,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1562,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1570,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 1571,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1584,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1604,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1607,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 1608,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1624,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1626,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1629,
+      "column": 95
+    },
+    "proof_start_pos": {
+      "line": 1630,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1639,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1641,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1646,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 1647,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1653,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1655,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1658,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 1659,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1663,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1686,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1693,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 1694,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1730,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1732,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1739,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 1740,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1746,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 1813,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1816,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 1817,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2110,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 2112,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2114,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 2115,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2137,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 2139,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2141,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 2142,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2152,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 2154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2155,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 2156,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2163,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Stackingproof.v",
+    "theorem_start_pos": {
+      "line": 2165,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2166,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 2167,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2180,
+      "column": 4
+    },
+    "hash": "f568c8f7e6fd1e251879aad5a8622a2ce73733e2e3c8dc8968e3c41856027228"
+  }
+]

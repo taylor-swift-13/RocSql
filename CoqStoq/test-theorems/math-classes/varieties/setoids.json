@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "math-classes",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6ad1db9fbd646f8daf1568afef230a76a9f58643",
+      "compile_args": [
+        "-R",
+        ".",
+        "MathClasses"
+      ]
+    },
+    "path": "varieties/setoids.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "dfc26b674051fe3eef23adfcedadcadbf3f9f4563f5c93d5ae82466e64cb8d07"
+  }
+]

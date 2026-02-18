@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/rewriting.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 71,
+      "column": 24
+    },
+    "hash": "a67833f7122f8d94afbcaac813f3305e0034d283ade3037168a2d43ff388694f"
+  }
+]

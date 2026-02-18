@@ -1,0 +1,134 @@
+# {{& fullname }}
+
+{{# travis }}
+[![Travis][travis-shield]][travis-link]
+{{/ travis }}
+{{# action }}
+[![CI][action-shield]][action-link]
+{{/ action }}
+{{# circleci }}
+[![CircleCI][circleci-shield]][circleci-link]
+{{/ circleci }}
+{{# community }}
+[![Contributing][contributing-shield]][contributing-link]
+[![Code of Conduct][conduct-shield]][conduct-link]
+[![Zulip][zulip-shield]][zulip-link]
+{{/ community }}
+{{# coqdoc }}
+[![coqdoc][coqdoc-shield]][coqdoc-link]
+{{/ coqdoc }}
+{{# doi }}
+[![DOI][doi-shield]][doi-link]
+{{/ doi }}
+
+{{# travis }}
+[travis-shield]: https://travis-ci.com/{{ organization }}/{{ shortname }}.svg?branch=master
+[travis-link]: https://travis-ci.com/{{ organization }}/{{ shortname }}/builds
+{{/ travis }}
+{{# action }}
+[action-shield]: https://github.com/{{ organization }}/{{ shortname }}/workflows/CI/badge.svg?branch=master
+[action-link]: https://github.com/{{ organization }}/{{ shortname }}/actions?query=workflow%3ACI
+{{/ action }}
+{{# circleci }}
+[circleci-shield]: https://circleci.com/gh/{{ organization }}/{{ shortname }}.svg?style=svg
+[circleci-link]:   https://circleci.com/gh/{{ organization }}/{{ shortname }}
+{{/ circleci }}
+
+{{# community }}
+[contributing-shield]: https://img.shields.io/badge/contributions-welcome-%23f7931e.svg
+[contributing-link]: https://github.com/coq-community/manifesto/blob/master/CONTRIBUTING.md
+
+[conduct-shield]: https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-%23f15a24.svg
+[conduct-link]: https://github.com/coq-community/manifesto/blob/master/CODE_OF_CONDUCT.md
+
+[zulip-shield]: https://img.shields.io/badge/chat-on%20zulip-%23c1272d.svg
+[zulip-link]: https://coq.zulipchat.com/#narrow/stream/237663-coq-community-devs.20.26.20users
+{{/ community }}
+
+{{# coqdoc }}
+[coqdoc-shield]: https://img.shields.io/badge/docs-coqdoc-blue.svg
+[coqdoc-link]: https://{{# community }}coq-community.org{{/ community }}{{^ community }}{{ organization }}.github.io{{/ community }}/{{ shortname }}
+{{/ coqdoc }}
+
+{{# doi }}
+[doi-shield]: https://zenodo.org/badge/DOI/{{ doi }}.svg
+[doi-link]: https://doi.org/{{ doi }}
+{{/ doi }}
+
+{{& description }}
+
+## Meta
+
+- Author(s):
+{{# authors }}
+  - {{& name }}{{# initial }} (initial){{/ initial }}
+{{/ authors }}
+{{& after_authors }}{{# community }}- Coq-community maintainer(s):
+{{# maintainers }}
+  - {{& name }} ([**@{{ nickname }}**](https://github.com/{{ nickname }}))
+{{/ maintainers }}
+{{/ community }}
+{{# license }}
+- License: [{{& fullname }}]({{ file }}{{^ file }}LICENSE{{/ file }})
+{{/ license }}
+{{# supported_coq_versions }}
+- Compatible Coq versions: {{& text }}
+{{/ supported_coq_versions }}
+{{# supported_ocaml_versions }}
+- Compatible OCaml versions: {{& text }}
+{{/ supported_ocaml_versions }}
+- Additional dependencies:{{# dependencies }}
+  - {{& description }}{{/ dependencies }}{{^ dependencies }}{{^ dune }} none{{/ dune }}{{/ dependencies }}{{# dune }}
+  - [Dune](https://dune.build) 2.5 or later{{/ dune }}
+{{# namespace }}
+- Coq namespace: `{{ namespace }}`
+{{/ namespace }}
+- Related publication(s):{{# publications }}
+  - [{{& pub_title }}]({{ pub_url }}) {{# pub_doi }}doi:[{{ pub_doi }}](https://doi.org/{{ pub_doi }}){{/ pub_doi}}{{/ publications }}{{^ publications }} none{{/ publications }}
+
+{{& build }}{{^ build }}## Building and installation instructions
+
+The easiest way to install the latest released version of {{& fullname }}
+is via [OPAM](https://opam.ocaml.org/doc/Install.html):
+
+```shell
+opam repo add coq-released https://coq.inria.fr/opam/released
+opam install {{ opam_name }}{{^ opam_name }}coq-{{ shortname }}{{/ opam_name }}
+```
+
+To instead build and install manually, do:
+
+``` shell
+git clone {{# submodule }}--recurse-submodules {{/ submodule }}https://github.com/{{ organization }}/{{ shortname }}.git
+cd {{ shortname }}
+{{# dune }}
+dune build
+dune install
+{{/ dune}}
+{{^ dune }}
+make {{ make_target }}  # or make -j <number-of-cores-on-your-machine> {{ make_target }}
+make install
+{{/ dune }}
+```
+{{/ build }}
+
+{{# extracted }}
+## {{& extracted_fullname }}
+
+{{& extracted_description}}
+
+{{# extracted_supported_ocaml_versions }}
+- Compatible OCaml versions: {{& text }}
+{{/ extracted_supported_ocaml_versions }}
+- Additional dependencies:{{# extracted_dependencies }}
+  - {{& description }} {{/ extracted_dependencies }}{{^ extracted_dependencies }} none{{/ extracted_dependencies }}
+
+{{& extracted_build }}{{^ extracted_build }}### Building
+To extract the code and compile manually, use the following command:
+```
+make {{& extracted_make_target }}
+```
+{{/ extracted_build }}
+{{/ extracted }}
+
+{{& documentation }}

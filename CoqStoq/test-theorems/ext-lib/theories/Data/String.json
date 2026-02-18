@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "ext-lib",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "00d3f4e2a260c7c23d2c0b9cbc69516f8be4ac92",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "ExtLib"
+      ]
+    },
+    "path": "theories/Data/String.v",
+    "theorem_start_pos": {
+      "line": 70,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 71,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 72,
+      "column": 2
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 6
+    },
+    "hash": "74265af7736551aa46806b04ebaeabdcda40f494bafa64789760222018b30165"
+  }
+]

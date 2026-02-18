@@ -1,0 +1,65 @@
+-R . CoqEAL
+
+-arg -w -arg -projection-no-head-constant
+-arg -w -arg -redundant-canonical-projection
+-arg -w -arg -notation-overridden
+-arg -w -arg +duplicate-clear
+-arg -w -arg +non-primitive-record
+-arg -w -arg +undeclared-scope
+-arg -w -arg +deprecated-hint-without-locality
+-arg -w -arg +deprecated-hint-rewrite-without-locality
+-arg -w -arg +deprecated-ident-entry
+-arg -w -arg +deprecated-typeclasses-transparency-without-locality
+-arg -w -arg -ambiguous-paths
+-arg -w -arg +implicit-core-hint-db
+
+theory/atomic_operations.v
+theory/bareiss_dvdring.v
+theory/bareiss.v
+theory/binetcauchy.v
+theory/closed_poly.v
+theory/coherent.v
+theory/companion.v
+theory/dvdring.v
+theory/edr.v
+theory/fpmod.v
+theory/frobenius_form.v
+theory/gauss.v
+theory/jordan.v
+theory/kaplansky.v
+theory/karatsuba.v
+theory/minor.v
+theory/mxstructure.v
+theory/perm_eq_image.v
+theory/polydvd.v
+theory/rank.v
+theory/similar.v
+theory/smithpid.v
+theory/smith.v
+theory/smith_complements.v
+theory/ssralg_ring_tac.v
+theory/ssrcomplements.v
+theory/strassen.v
+theory/stronglydiscrete.v
+theory/toomcook.v
+refinements/hrel.v
+refinements/param.v
+refinements/refinements.v
+refinements/pos.v
+refinements/binnat.v
+refinements/binint.v
+refinements/poly_op.v
+refinements/seqpoly.v
+refinements/karatsuba.v
+refinements/poly_div.v
+refinements/binord.v
+refinements/seqmx.v
+refinements/seqmx_complements.v
+refinements/hpoly.v
+refinements/bareiss_eff.v
+refinements/rational.v
+refinements/boolF2.v
+refinements/trivial_seq.v
+refinements/examples/irred.v
+refinements/binrat.v
+refinements/multipoly.v

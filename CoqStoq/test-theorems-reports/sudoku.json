@@ -1,0 +1,35 @@
+{
+  "project": {
+    "dir_name": "sudoku",
+    "split": {
+      "dir_name": "val-repos",
+      "thm_dir_name": "val-theorems"
+    },
+    "commit_hash": "fce3ced21fe5f66d593cf817f70508ba914e8373",
+    "compile_args": [
+      "-R",
+      "theories",
+      "Sudoku"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "val-repos/sudoku/src/Extract.v",
+      "val-repos/sudoku/theories/OrderedList.v",
+      "val-repos/sudoku/theories/Parse.v",
+      "val-repos/sudoku/theories/Permutation.v",
+      "val-repos/sudoku/theories/ListOp.v",
+      "val-repos/sudoku/theories/Sudoku.v",
+      "val-repos/sudoku/theories/UList.v",
+      "val-repos/sudoku/theories/ListAux.v",
+      "val-repos/sudoku/theories/Test.v",
+      "val-repos/sudoku/theories/Div.v",
+      "val-repos/sudoku/theories/Tactic.v",
+      "val-repos/sudoku/theories/Print.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 239
+  }
+}

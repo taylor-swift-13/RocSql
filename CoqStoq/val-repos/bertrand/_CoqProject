@@ -1,0 +1,22 @@
+-Q theories Bertrand
+
+theories/Bertrand.v
+theories/Binomial.v
+theories/Check128.v
+theories/Div.v
+theories/DivDirac.v
+theories/Divides.v
+theories/Factorial_bis.v
+theories/Gcd.v
+theories/Misc.v
+theories/Partition.v
+theories/Power.v
+theories/PowerBinomial.v
+theories/PowerDiv.v
+theories/Prime.v
+theories/PrimeDirac.v
+theories/Product.v
+theories/Raux.v
+theories/Summation.v
+theories/sTactic.v
+ocaml/Extraction.v

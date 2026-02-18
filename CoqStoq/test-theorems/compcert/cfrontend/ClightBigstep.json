@@ -1,0 +1,254 @@
+[
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/ClightBigstep.v",
+    "theorem_start_pos": {
+      "line": 299,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 300,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 301,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 303,
+      "column": 4
+    },
+    "hash": "7988cf453409f69ef1c9ab1561087bc48cfe9d7bd5433110c6f7772453083f60"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/ClightBigstep.v",
+    "theorem_start_pos": {
+      "line": 311,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 322,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 323,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 487,
+      "column": 4
+    },
+    "hash": "7988cf453409f69ef1c9ab1561087bc48cfe9d7bd5433110c6f7772453083f60"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/ClightBigstep.v",
+    "theorem_start_pos": {
+      "line": 507,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 510,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 511,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 577,
+      "column": 4
+    },
+    "hash": "7988cf453409f69ef1c9ab1561087bc48cfe9d7bd5433110c6f7772453083f60"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/ClightBigstep.v",
+    "theorem_start_pos": {
+      "line": 579,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 580,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 581,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 594,
+      "column": 4
+    },
+    "hash": "7988cf453409f69ef1c9ab1561087bc48cfe9d7bd5433110c6f7772453083f60"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "project": {
+    "dir_name": "hoare-tut",
+    "split": {
+      "dir_name": "test-repos",
+      "thm_dir_name": "test-theorems"
+    },
+    "commit_hash": "66dfb255c9e8bb49269d83b3577b285288f39928",
+    "compile_args": [
+      "-R",
+      ".",
+      "HoareTut"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "test-repos/hoare-tut/hoarelogic.v",
+      "test-repos/hoare-tut/hoarelogicsemantics.v",
+      "test-repos/hoare-tut/partialhoarelogic.v",
+      "test-repos/hoare-tut/exgcd.v",
+      "test-repos/hoare-tut/totalhoarelogic.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 25
+  }
+}

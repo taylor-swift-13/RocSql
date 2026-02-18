@@ -1,0 +1,3341 @@
+[
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 220,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 221,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 224,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 388,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 395,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 396,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 400,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 414,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 416,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 417,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 420,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 422,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 425,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 426,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 428,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 430,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 433,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 434,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 436,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 438,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 442,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 443,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 449,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 462,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 463,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 464,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 466,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 468,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 469,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 470,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 472,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 474,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 475,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 476,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 478,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 480,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 481,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 482,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 484,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 486,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 487,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 488,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 495,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 497,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 501,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 502,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 504,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 582,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 583,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 584,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 591,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 593,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 594,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 595,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 609,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 611,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 614,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 615,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 618,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 624,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 632,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 633,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 659,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 661,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 668,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 669,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 683,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 685,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 693,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 694,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 696,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 709,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 717,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 718,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 755,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 771,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 775,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 776,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 778,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 780,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 784,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 785,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 787,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 789,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 795,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 796,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 860,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 862,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 866,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 867,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 870,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 872,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 876,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 877,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 880,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 896,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 899,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 900,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 905,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 907,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 912,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 913,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 917,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 925,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 928,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 929,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 931,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 941,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 943,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 944,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 948,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 950,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 953,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 954,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 964,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 966,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 969,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 970,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 980,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 984,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 988,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 989,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 998,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1000,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1005,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 1006,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1016,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1018,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1019,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 1020,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1023,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1058,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1066,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 1067,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1132,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1134,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1138,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 1139,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1141,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1147,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1149,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 1150,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1280,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1282,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1286,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 1287,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1396,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1400,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1402,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 1403,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1407,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1409,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1411,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 1412,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1433,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1445,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1448,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 1449,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1451,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1453,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1457,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 1458,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1463,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1465,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1468,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 1469,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1471,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1473,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1477,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 1478,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1482,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1484,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1485,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 1486,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1593,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 1597,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1598,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 1599,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1614,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 2150,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2151,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 2152,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2154,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 2156,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2163,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 2164,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2168,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 2170,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2172,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 2173,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2177,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 2179,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2181,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 2182,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2184,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 2186,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2211,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 2212,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2618,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 2692,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2703,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 2704,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2710,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 2712,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2715,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 2716,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3022,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/Cstrategy.v",
+    "theorem_start_pos": {
+      "line": 3051,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3052,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 3053,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3066,
+      "column": 4
+    },
+    "hash": "5dd85665630215d04d11d7e7dbbee31199c16fdd670e14555f8975eed1a4b51b"
+  }
+]

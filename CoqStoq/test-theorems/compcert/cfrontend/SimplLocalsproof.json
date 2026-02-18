@@ -1,0 +1,5735 @@
+[
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 70,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 132,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 140,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 156,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 167,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 168,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 179,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 183,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 186,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 206,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 208,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 215,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 219,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 222,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 231,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 234,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 235,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 239,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 243,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 247,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 264,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 271,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 272,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 286,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 288,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 293,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 304,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 305,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 310,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 312,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 317,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 318,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 331,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 333,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 337,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 338,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 350,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 352,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 356,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 357,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 363,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 365,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 371,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 372,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 383,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 387,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 395,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 396,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 417,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 421,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 426,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 427,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 440,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 442,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 447,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 448,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 452,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 456,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 460,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 461,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 470,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 474,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 478,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 479,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 488,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 495,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 498,
+      "column": 107
+    },
+    "proof_start_pos": {
+      "line": 499,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 507,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 509,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 510,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 511,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 516,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 518,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 523,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 524,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 534,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 536,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 538,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 539,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 546,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 553,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 554,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 555,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 560,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 562,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 564,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 565,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 567,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 569,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 571,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 572,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 574,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 576,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 577,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 578,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 580,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 586,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 588,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 589,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 593,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 595,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 598,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 599,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 609,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 611,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 616,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 617,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 630,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 632,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 652,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 653,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 738,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 740,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 745,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 746,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 750,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 752,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 754,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 755,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 763,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 769,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 773,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 774,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 783,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 785,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 786,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 787,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 792,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 794,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 795,
+      "column": 98
+    },
+    "proof_start_pos": {
+      "line": 796,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 802,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 804,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 807,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 808,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 821,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 823,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 824,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 825,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 827,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 829,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 831,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 832,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 836,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 838,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 840,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 841,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 846,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 848,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 850,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 851,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 854,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 856,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 859,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 860,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 864,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 866,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 870,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 871,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 879,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 881,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 887,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 888,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 902,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 904,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 920,
+      "column": 99
+    },
+    "proof_start_pos": {
+      "line": 921,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1002,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1004,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1014,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 1015,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1088,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1090,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1092,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 1093,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1098,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1100,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1117,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1118,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1180,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1182,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1184,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 1185,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1189,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1191,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1196,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 1197,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1205,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1215,
+      "column": 8
+    },
+    "proof_start_pos": {
+      "line": 1216,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1221,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1223,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1227,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 1228,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1235,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1237,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1241,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 1242,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1246,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1261,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 1262,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1271,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1273,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1282,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 1283,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1306,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1315,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 1316,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1322,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1324,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1325,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1326,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1329,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1331,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1338,
+      "column": 25
+    },
+    "proof_start_pos": {
+      "line": 1339,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1369,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1381,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1384,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 1385,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1388,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1404,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1405,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 1406,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1408,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1410,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1414,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 1415,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1427,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1429,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1440,
+      "column": 127
+    },
+    "proof_start_pos": {
+      "line": 1442,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1532,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1534,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1541,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 1542,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1552,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1593,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1601,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1602,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1617,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1621,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1626,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 1627,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1636,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1640,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1647,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1648,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1656,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1660,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1665,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1666,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1668,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1672,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1676,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 1677,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1679,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1681,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1685,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 1686,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1688,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1690,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1694,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 1695,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1697,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1701,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1703,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 1704,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1709,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1711,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1715,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 1716,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1722,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1724,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1732,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 1733,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1742,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1746,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1749,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 1750,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1752,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1756,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1761,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 1762,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1770,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1807,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1812,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 1813,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1818,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1820,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1823,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 1824,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1856,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1858,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1861,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 1862,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1866,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1868,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1871,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 1872,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1894,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1896,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1897,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 1898,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1900,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 1910,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1940,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 1942,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2004,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 2006,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2007,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 2008,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2011,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 2013,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2014,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 2015,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2018,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 2020,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2021,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 2022,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2025,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 2030,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2032,
+      "column": 100
+    },
+    "proof_start_pos": {
+      "line": 2033,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2268,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 2270,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2272,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 2273,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2296,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 2298,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2300,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 2301,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2305,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "cfrontend/SimplLocalsproof.v",
+    "theorem_start_pos": {
+      "line": 2307,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2308,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 2309,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2315,
+      "column": 4
+    },
+    "hash": "e9b71040ceb608235e8f4f16b2adcffeae8f4c6ca63d3be06ffa851ed346e772"
+  }
+]

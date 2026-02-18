@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "coqstoq"
+version = "0.1.0"
+description = "A benchmark for evaluating automatic proof search tools for Coq."
+authors = ["Kyle Thompson <r7thompson@ucsd.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+coqpyt = { path = "coqpyt" }
+pyyaml = "^6.0.2"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.8.0"
+ipdb = "^0.13.13"
+ipython = "^8.28.0"
+ipykernel = "6.29.5"
+pyright = "^1.1.400"
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.3.3"
+
+[tool.pytest.ini_options]
+minversion = "8.3.3"
+testpaths = ["tests"]
+log_cli = true
+log_cli_level = "INFO"
+log_cli_format = "%(asctime)s %(levelname)s %(message)s"
+log_cli_date_format = "%Y-%m-%d %H:%M:%S"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pyright]
+exclude = ["raw-data", "data", "models", "results"]
+extraPaths = ["coqpyt"]

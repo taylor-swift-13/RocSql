@@ -1,0 +1,68 @@
+[
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoStalmarck.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 4
+    },
+    "hash": "034e91fbb706a39dd7d4e577d962ad51017855e25a3d72df1f88f28464a9ced5"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/algoStalmarck.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 5
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 4
+    },
+    "hash": "034e91fbb706a39dd7d4e577d962ad51017855e25a3d72df1f88f28464a9ced5"
+  }
+]

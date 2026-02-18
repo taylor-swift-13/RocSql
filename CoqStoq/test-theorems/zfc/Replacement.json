@@ -1,0 +1,68 @@
+[
+  {
+    "project": {
+      "dir_name": "zfc",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "ede7126560844c381c2b021003a8dbcb0668ecad",
+      "compile_args": [
+        "-R",
+        ".",
+        "ZFC"
+      ]
+    },
+    "path": "Replacement.v",
+    "theorem_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 43,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 44,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "f6e59011dea4f133e79d5167c615e81662a6ab90223a854db300fc782191c201"
+  },
+  {
+    "project": {
+      "dir_name": "zfc",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "ede7126560844c381c2b021003a8dbcb0668ecad",
+      "compile_args": [
+        "-R",
+        ".",
+        "ZFC"
+      ]
+    },
+    "path": "Replacement.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 150,
+      "column": 4
+    },
+    "hash": "f6e59011dea4f133e79d5167c615e81662a6ab90223a854db300fc782191c201"
+  }
+]

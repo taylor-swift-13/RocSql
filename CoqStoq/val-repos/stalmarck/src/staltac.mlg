@@ -1,0 +1,11 @@
+DECLARE PLUGIN "coq-stalmarck-tactic.plugin"
+
+{
+
+open Ltac_plugin
+open Staltac_lib
+
+}
+
+TACTIC EXTEND _stalt_ | [ "stalt" ] -> { stalt_run } END
+TACTIC EXTEND _pop_prop_ | [ "pop_prop" ] -> { pop_prop_run } END

@@ -1,0 +1,34 @@
+{
+  "project": {
+    "dir_name": "dblib",
+    "split": {
+      "dir_name": "test-repos",
+      "thm_dir_name": "test-theorems"
+    },
+    "commit_hash": "25469872c0ba99b046f7e5b8608205eeea5ac077",
+    "compile_args": [
+      "-Q",
+      "src",
+      "Dblib"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "test-repos/dblib/src/Environments.v",
+      "test-repos/dblib/src/DemoLambda.v",
+      "test-repos/dblib/src/DblibTactics.v",
+      "test-repos/dblib/src/DemoValueTerm.v",
+      "test-repos/dblib/src/DemoExplicitSystemF.v",
+      "test-repos/dblib/src/DeBruijn.v",
+      "test-repos/dblib/src/DemoImplicitSystemF.v",
+      "test-repos/dblib/tests/bugs/closed/bug_8.v"
+    ],
+    "errored_files": [
+      "test-repos/dblib/attic/EnvironmentsAsFunctions.v",
+      "test-repos/dblib/tests/bugs/opened/bug_9.v"
+    ],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 138
+  }
+}

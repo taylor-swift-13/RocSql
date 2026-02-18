@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "fourcolor",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "43719c0fb5fb6cb0c8fc1c2db09efc632c23df90",
+      "compile_args": [
+        "-R",
+        "theories",
+        "fourcolor"
+      ]
+    },
+    "path": "theories/reducibility.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 14,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 15,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 19,
+      "column": 4
+    },
+    "hash": "148555bff2d1383c1c5399028f4c67e722661eec7fbc2f073ee4698883c12856"
+  }
+]

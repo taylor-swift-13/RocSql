@@ -1,0 +1,128 @@
+[
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "export/Ctypesdefs.v",
+    "theorem_start_pos": {
+      "line": 246,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 247,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 248,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 252,
+      "column": 4
+    },
+    "hash": "43e3580414d6c2c631c92e009b87efb0a446d3cc05e9c2283f0a4532853776a1"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "export/Ctypesdefs.v",
+    "theorem_start_pos": {
+      "line": 254,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 259,
+      "column": 4
+    },
+    "hash": "43e3580414d6c2c631c92e009b87efb0a446d3cc05e9c2283f0a4532853776a1"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "dblib",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "25469872c0ba99b046f7e5b8608205eeea5ac077",
+      "compile_args": [
+        "-Q",
+        "src",
+        "Dblib"
+      ]
+    },
+    "path": "tests/bugs/closed/bug_8.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 2
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "proof_end_pos": {
+      "line": 32,
+      "column": 6
+    },
+    "hash": "255a71d78c474e67885ee76ad72ce052cfa7e80d9ef7e38fbb7bc7a1d82753f1"
+  }
+]

@@ -1,0 +1,73 @@
+digraph dependencies {
+	subgraph { # preliminary infrastructure
+		node [style=filled; color="yellow"];
+		"edone";
+		"bounded";
+		"preliminaries";
+		"finmap_plus";
+		"set_tac";
+		"bij";
+		"finite_quotient";
+		"equiv";
+		"setoid_bigop";
+		"partition";
+	}
+	subgraph { # general purpose graph lib
+		node [style=filled; color="orange"];
+		"digraph";
+		"sgraph";
+		"helly";
+		"treewidth";
+		"minor";
+		"connectivity";
+		"excluded";
+		"checkpoint";
+		"dom";
+		 "coloring";
+		 "wpgt";
+	}
+	subgraph { # 2p algebra of multigraphs (JAR19 generalised in CPP20)
+		node [style=filled; color="magenta3"];
+		"ptt";
+		"mgraph";
+		"mgraph2";
+	}
+	subgraph { # 2p algebra of multigraphs, extraction (JAR19)
+		node [style=filled; color="red"];
+		"skeleton";
+		"mgraph2_tw2";
+		"cp_minor";
+		"extraction_def";
+		"extraction_iso";
+		"extraction_top";
+	}
+	subgraph { # 2pdom soundness and completeness (CPP20)
+		node [style=filled; color="blueviolet"];
+		"structures";
+		"pttdom";
+		"rewriting";
+		"reduction";
+		"open_confluence";
+		"transfer";
+		"completeness";
+	}
+	subgraph { # Wagner's theorem (ITP21)
+		node [style=filled; color="green"];
+		"hmap_ops";
+		"arc";
+		"hcycle";
+		"smerge";
+		"embedding";
+		"K4plane";
+		"wagner";
+	}
+	subgraph {
+		rank="same";
+		"edone";
+		"preliminaries";
+	}
+	subgraph {
+		rank="same";
+		"finmap_plus";
+		"finite_quotient";
+	}

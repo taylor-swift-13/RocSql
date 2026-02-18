@@ -1,0 +1,662 @@
+[
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 21,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 21,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 28,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 37,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 40,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 46,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 48,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 48,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 56,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 66,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 69,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 70,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 84,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 86,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 88,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 94,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 100,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 100,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 105,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 113,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 114,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 117,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 119,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 121,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 123,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 123,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 125,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 129,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 130,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 138,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 138,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 139,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 140,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 142,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 143,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 145,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 147,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 148,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 149,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/sqrt2.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 159,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 168,
+      "column": 4
+    },
+    "hash": "1ec210338908e2bf0a842ced1726c829d6302f430ec20324054a0ed21eee2df1"
+  }
+]

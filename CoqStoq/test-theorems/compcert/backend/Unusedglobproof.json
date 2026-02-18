@@ -1,0 +1,4223 @@
+[
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 87,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 88,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 95,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 104,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 107,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 108,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 118,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 119,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 123,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 133,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 136,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 137,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 144,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 146,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 147,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 148,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 155,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 157,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 165,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 169,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 170,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 171,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 176,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 178,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 180,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 181,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 187,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 202,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 204,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 205,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 222,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 225,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 231,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 232,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 244,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 264,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 270,
+      "column": 6
+    },
+    "proof_start_pos": {
+      "line": 271,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 285,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 287,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 288,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 289,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 296,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 298,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 299,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 308,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 310,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 314,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 315,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 326,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 339,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 341,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 342,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 347,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 351,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 352,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 354,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 356,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 360,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 361,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 369,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 371,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 375,
+      "column": 95
+    },
+    "proof_start_pos": {
+      "line": 376,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 387,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 389,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 392,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 393,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 399,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 401,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 403,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 404,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 412,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 414,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 415,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 416,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 425,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 429,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 430,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 431,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 440,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 457,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 459,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 460,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 462,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 464,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 465,
+      "column": 21
+    },
+    "proof_start_pos": {
+      "line": 466,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 468,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 470,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 471,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 472,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 474,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 478,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 480,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 481,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 489,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 491,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 493,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 494,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 504,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 538,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 541,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 542,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 544,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 546,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 549,
+      "column": 95
+    },
+    "proof_start_pos": {
+      "line": 550,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 555,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 557,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 558,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 559,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 584,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 586,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 587,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 588,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 620,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 622,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 625,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 626,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 630,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 637,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 638,
+      "column": 86
+    },
+    "proof_start_pos": {
+      "line": 639,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 641,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 643,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 646,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 647,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 649,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 651,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 654,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 655,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 657,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 659,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 660,
+      "column": 92
+    },
+    "proof_start_pos": {
+      "line": 661,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 663,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 665,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 666,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 667,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 669,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 671,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 674,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 675,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 678,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 697,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 700,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 701,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 703,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 705,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 710,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 711,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 741,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 743,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 747,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 748,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 752,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 777,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 790,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 791,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 794,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 796,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 801,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 802,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 817,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 819,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 829,
+      "column": 23
+    },
+    "proof_start_pos": {
+      "line": 830,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 859,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 861,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 871,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 872,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 879,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 881,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 884,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 885,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1046,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1069,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1078,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 1079,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1088,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1096,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1099,
+      "column": 118
+    },
+    "proof_start_pos": {
+      "line": 1100,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1116,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1118,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1122,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 1123,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1129,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1131,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1132,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 1133,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1166,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1168,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1169,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 1170,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1195,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1199,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1201,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 1202,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1214,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1216,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1219,
+      "column": 93
+    },
+    "proof_start_pos": {
+      "line": 1220,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1227,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1229,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1230,
+      "column": 88
+    },
+    "proof_start_pos": {
+      "line": 1231,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1245,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1247,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1249,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 1250,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1252,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1254,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1255,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 1256,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1263,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1267,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1268,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 1269,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1271,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1275,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1277,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 1278,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1302,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1304,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1308,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 1309,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1313,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1315,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1320,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 1321,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1325,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1327,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1332,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 1333,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1383,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  },
+  {
+    "project": {
+      "dir_name": "compcert",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "6019bc41556473897155259e3d15c5d689185569",
+      "compile_args": [
+        "-R",
+        "lib",
+        "compcert.lib",
+        "-R",
+        "common",
+        "compcert.common",
+        "-R",
+        "x86_64",
+        "compcert.x86_64",
+        "-R",
+        "x86",
+        "compcert.x86",
+        "-R",
+        "backend",
+        "compcert.backend",
+        "-R",
+        "cfrontend",
+        "compcert.cfrontend",
+        "-R",
+        "driver",
+        "compcert.driver",
+        "-R",
+        "export",
+        "compcert.export",
+        "-R",
+        "cparser",
+        "compcert.cparser",
+        "-R",
+        "flocq",
+        "Flocq",
+        "-R",
+        "MenhirLib",
+        "MenhirLib"
+      ]
+    },
+    "path": "backend/Unusedglobproof.v",
+    "theorem_start_pos": {
+      "line": 1385,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1389,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 1390,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1435,
+      "column": 4
+    },
+    "hash": "869ffa5cad6fb882658e8817ed22f5306ac63e34d7b942bad3f23e68c7dc2f22"
+  }
+]

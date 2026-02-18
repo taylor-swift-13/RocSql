@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "ShiftOverflowBins.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 42,
+      "column": 17
+    },
+    "proof_start_pos": {
+      "line": 43,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "e927844841f6e9b89eaadafd95637b6d2831b9f3992cd27ca32b8f76beb86436"
+  }
+]

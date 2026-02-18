@@ -1,0 +1,34 @@
+{
+  "project": {
+    "dir_name": "zfc",
+    "split": {
+      "dir_name": "test-repos",
+      "thm_dir_name": "test-theorems"
+    },
+    "commit_hash": "ede7126560844c381c2b021003a8dbcb0668ecad",
+    "compile_args": [
+      "-R",
+      ".",
+      "ZFC"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "test-repos/zfc/Axioms.v",
+      "test-repos/zfc/Constructive.v",
+      "test-repos/zfc/Ordinal_theory.v",
+      "test-repos/zfc/Sets.v",
+      "test-repos/zfc/Omega.v",
+      "test-repos/zfc/Plump.v",
+      "test-repos/zfc/zfc.v",
+      "test-repos/zfc/Russell.v",
+      "test-repos/zfc/Cartesian.v",
+      "test-repos/zfc/Replacement.v",
+      "test-repos/zfc/Hierarchy.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 207
+  }
+}

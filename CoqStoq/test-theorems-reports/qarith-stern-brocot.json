@@ -1,0 +1,60 @@
+{
+  "project": {
+    "dir_name": "qarith-stern-brocot",
+    "split": {
+      "dir_name": "val-repos",
+      "thm_dir_name": "val-theorems"
+    },
+    "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+    "compile_args": [
+      "-R",
+      "theories",
+      "QArithSternBrocot"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "val-repos/qarith-stern-brocot/theories/Field_Theory_Q.v",
+      "val-repos/qarith-stern-brocot/theories/second_Field_Theory_Q.v",
+      "val-repos/qarith-stern-brocot/theories/positive_fraction_encoding.v",
+      "val-repos/qarith-stern-brocot/theories/Q_ordered_field_properties.v",
+      "val-repos/qarith-stern-brocot/theories/Q_Archimedean.v",
+      "val-repos/qarith-stern-brocot/theories/Qquadratic_sign_properties.v",
+      "val-repos/qarith-stern-brocot/theories/Qquadratic_Qpositive_to_Q_properties.v",
+      "val-repos/qarith-stern-brocot/theories/Qpositive.v",
+      "val-repos/qarith-stern-brocot/theories/Qhomographic_sign.v",
+      "val-repos/qarith-stern-brocot/theories/Zaux.v",
+      "val-repos/qarith-stern-brocot/theories/homographicAcc_Qhomographic_sign.v",
+      "val-repos/qarith-stern-brocot/theories/Qhomographic_sign_properties.v",
+      "val-repos/qarith-stern-brocot/theories/quadratic_correctness.v",
+      "val-repos/qarith-stern-brocot/theories/Q_order.v",
+      "val-repos/qarith-stern-brocot/theories/Merge_Order.v",
+      "val-repos/qarith-stern-brocot/theories/Qquadratic_sign.v",
+      "val-repos/qarith-stern-brocot/theories/Q_to_R.v",
+      "val-repos/qarith-stern-brocot/theories/Qpositive_sub.v",
+      "val-repos/qarith-stern-brocot/theories/Qabs.v",
+      "val-repos/qarith-stern-brocot/theories/Qhomographic_Qpositive_to_Q_properties.v",
+      "val-repos/qarith-stern-brocot/theories/Qhomographic_Qpositive_to_Qpositive.v",
+      "val-repos/qarith-stern-brocot/theories/Qsyntax.v",
+      "val-repos/qarith-stern-brocot/theories/quadraticAcc_Qquadratic_sign.v",
+      "val-repos/qarith-stern-brocot/theories/Qquadratic_Qpositive_to_Qpositive.v",
+      "val-repos/qarith-stern-brocot/theories/Qmax_min.v",
+      "val-repos/qarith-stern-brocot/theories/Qpositive_order.v",
+      "val-repos/qarith-stern-brocot/theories/Qhomographic.v",
+      "val-repos/qarith-stern-brocot/theories/Qquadratic.v",
+      "val-repos/qarith-stern-brocot/theories/QArith_Stern_Brocot.v",
+      "val-repos/qarith-stern-brocot/theories/general_Q.v",
+      "val-repos/qarith-stern-brocot/theories/Q_denumerable.v",
+      "val-repos/qarith-stern-brocot/theories/sqrt2.v",
+      "val-repos/qarith-stern-brocot/theories/R_addenda.v",
+      "val-repos/qarith-stern-brocot/theories/Q_field.v",
+      "val-repos/qarith-stern-brocot/theories/Qpositive_le.v",
+      "val-repos/qarith-stern-brocot/theories/homographic_correctness.v",
+      "val-repos/qarith-stern-brocot/theories/Qpositive_plus_mult.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 861
+  }
+}

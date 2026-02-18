@@ -1,0 +1,170 @@
+Require
+  MathClasses.theory.ua_homomorphisms.
+Require Import
+  Coq.Classes.Morphisms Coq.setoid_ring.Ring Coq.Arith.Arith_base Coq.Arith.PeanoNat
+  MathClasses.interfaces.abstract_algebra MathClasses.interfaces.naturals MathClasses.theory.categories
+  MathClasses.interfaces.additional_operations MathClasses.interfaces.orders MathClasses.orders.semirings.
+
+#[global]
+Instance nat_equiv: Equiv nat := eq.
+#[global]
+Instance nat_plus: Plus nat := Peano.plus.
+#[global]
+Instance nat_0: Zero nat := 0%nat.
+#[global]
+Instance nat_1: One nat := 1%nat.
+#[global]
+Instance nat_mult: Mult nat := Peano.mult.
+
+#[global]
+Instance: SemiRing nat.
+Proof.
+  repeat (split; try apply _); repeat intro.
+         now apply Nat.add_assoc.
+        now apply Nat.add_0_r.
+       now apply Nat.add_comm.
+      now apply Nat.mul_assoc.
+     now apply Nat.mul_1_l.
+    now apply Nat.mul_1_r.
+   now apply Nat.mul_comm.
+  now apply Nat.mul_add_distr_l.
+Qed.
+
+(* misc *)
+#[global]
+Instance: Injective S.
+Proof. repeat (split; try apply _). intros ?? E. now injection E. Qed.
+
+Global Instance nat_dec: ∀ x y: nat, Decision (x = y) := eq_nat_dec.
+
+Add Ring nat: (rings.stdlib_semiring_theory nat).
+
+Close Scope nat_scope.
+
+#[global]
+Instance: NaturalsToSemiRing nat :=
+  λ _ _ _ _ _, fix f (n: nat) := match n with 0%nat => 0 | S n' => f n' + 1 end.
+
+Section for_another_semiring.
+  Context `{SemiRing R}.
+
+  Notation toR := (naturals_to_semiring nat R).
+
+  Add Ring R: (rings.stdlib_semiring_theory R).
+
+  Instance: Proper ((=) ==> (=)) toR.
+  Proof. unfold equiv, nat_equiv. repeat intro. subst. reflexivity. Qed.
+
+  Let f_preserves_0: toR 0 = 0.
+  Proof. reflexivity. Qed.
+
+  Let f_preserves_1: toR 1 = 1.
+  Proof. unfold naturals_to_semiring. simpl. ring. Qed.
+
+  Let f_preserves_plus a a': toR (a + a') = toR a + toR a'.
+  Proof with ring.
+   induction a. change (toR a' = 0 + toR a')...
+   change (toR (a + a') + 1 = toR (a) + 1 + toR a'). rewrite IHa...
+  Qed.
+
+  Let f_preserves_mult a a': toR (a * a') = toR a * toR a'.
+  Proof with ring.
+   induction a. change (0 = 0 * toR a')...
+   change (toR (a' + a * a') = (toR a + 1) * toR a').
+   rewrite f_preserves_plus, IHa...
+  Qed.
+
+  Global Instance: SemiRing_Morphism (naturals_to_semiring nat R).
+   repeat (constructor; try apply _).
+      apply f_preserves_plus.
+     apply f_preserves_0.
+    apply f_preserves_mult.
+   apply f_preserves_1.
+  Qed.
+End for_another_semiring.
+
+Lemma O_nat_0 : O ≡ 0.
+Proof. reflexivity. Qed.
+
+Lemma S_nat_plus_1 x : S x ≡ x + 1.
+Proof. rewrite commutativity. reflexivity. Qed.
+
+Lemma S_nat_1_plus x : S x ≡ 1 + x.
+Proof. reflexivity. Qed.
+
+Lemma nat_induction (P : nat → Prop) :
+  P 0 → (∀ n, P n → P (1 + n)) → ∀ n, P n.
+Proof nat_ind P.
+
+#[global]
+Instance: Initial (semirings.object nat).
+Proof.
+  intros. apply natural_initial. intros.
+  intros x y E. unfold equiv, nat_equiv in E. subst y. induction x.
+  replace 0%nat with (zero:nat) by reflexivity.
+  rewrite 2!rings.preserves_0. reflexivity.
+  rewrite S_nat_1_plus.
+  rewrite 2!rings.preserves_plus, 2!rings.preserves_1.
+  now rewrite IHx.
+Qed.
+
+(* [nat] is indeed a model of the naturals *)
+#[global]
+Instance: Naturals nat := {}.
+
+(* Misc *)
+#[global]
+Instance: NoZeroDivisors nat.
+Proof. now intros x [Ex [y [Ey1 [H | H]%Nat.eq_mul_0]]]. Qed.
+
+#[global]
+Instance: ∀ z : nat, PropHolds (z ≠ 0) → LeftCancellation (.*.) z.
+Proof. intros z Ez x y. now apply Nat.mul_cancel_l. Qed.
+
+(* Order *)
+#[global]
+Instance nat_le: Le nat := Peano.le.
+#[global]
+Instance nat_lt: Lt nat := Peano.lt.
+
+#[global]
+Instance: FullPseudoSemiRingOrder nat_le nat_lt.
+Proof.
+  assert (TotalRelation nat_le).
+   intros x y. now destruct (le_ge_dec x y); intuition.
+  assert (PartialOrder nat_le).
+   split; try apply _. intros x y E. now apply Nat.le_antisymm.
+  assert (SemiRingOrder nat_le).
+   repeat (split; try apply _).
+      intros x y E. exists (y - x)%nat.
+      now rewrite Nat.add_comm, Nat.sub_add by (exact E).
+     intros. now apply Nat.add_le_mono_l.
+    intros. now apply Nat.add_le_mono_l with z.
+   intros x y ? ?. change (0 * 0 <= x * y)%nat. now apply Nat.mul_le_mono.
+  apply dec_full_pseudo_srorder.
+  now apply Nat.le_neq.
+Qed.
+
+#[global]
+Instance: OrderEmbedding S.
+Proof. repeat (split; try apply _). exact le_n_S. exact le_S_n. Qed.
+
+#[global]
+Instance: StrictOrderEmbedding S.
+Proof. split; try apply _. Qed.
+
+#[global]
+Instance nat_le_dec : `{Decision (x ≤ y)} := le_dec.
+
+#[global]
+Instance nat_cut_minus: CutMinus nat := minus.
+#[global]
+Instance: CutMinusSpec nat nat_cut_minus.
+Proof.
+  split.
+   symmetry. rewrite commutativity.
+   now rewrite Nat.add_comm, Nat.sub_add by (exact H).
+  intros x y E. destruct (orders.le_equiv_lt x y E) as [E2|E2].
+   rewrite E2. now apply Nat.sub_diag.
+   apply Nat.sub_0_le; exact E.
+Qed.

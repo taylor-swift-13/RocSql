@@ -1,0 +1,63 @@
+[submodule "test-repos/compcert"]
+	path = test-repos/compcert
+	url = https://github.com/AbsInt/CompCert
+[submodule "test-repos/ext-lib"]
+	path = test-repos/ext-lib
+	url = https://github.com/coq-community/coq-ext-lib
+[submodule "test-repos/fourcolor"]
+	path = test-repos/fourcolor
+	url = https://github.com/coq-community/fourcolor
+[submodule "test-repos/math-classes"]
+	path = test-repos/math-classes
+	url = https://github.com/coq-community/math-classes
+[submodule "test-repos/reglang"]
+	path = test-repos/reglang
+	url = https://github.com/coq-community/reglang
+[submodule "test-repos/buchberger"]
+	path = test-repos/buchberger
+	url = https://github.com/coq-community/buchberger
+[submodule "test-repos/hoare-tut"]
+	path = test-repos/hoare-tut
+	url = https://github.com/coq-community/hoare-tut
+[submodule "test-repos/zorns-lemma"]
+	path = test-repos/zorns-lemma
+	url = https://github.com/coq-community/zorns-lemma
+[submodule "test-repos/huffman"]
+	path = test-repos/huffman
+	url = https://github.com/coq-community/huffman
+[submodule "test-repos/dblib"]
+	path = test-repos/dblib
+	url = https://github.com/coq-community/dblib
+[submodule "test-repos/zfc"]
+	path = test-repos/zfc
+	url = https://github.com/coq-contribs/zfc
+[submodule "val-repos/sudoku"]
+	path = val-repos/sudoku
+	url = https://github.com/coq-community/sudoku
+[submodule "val-repos/bertrand"]
+	path = val-repos/bertrand
+	url = https://github.com/coq-community/bertrand
+[submodule "val-repos/graph-theory"]
+	path = val-repos/graph-theory
+	url = https://github.com/coq-community/graph-theory
+[submodule "val-repos/stalmarck"]
+	path = val-repos/stalmarck
+	url = https://github.com/coq-community/stalmarck
+[submodule "val-repos/qarith-stern-brocot"]
+	path = val-repos/qarith-stern-brocot
+	url = https://github.com/coq-community/qarith-stern-brocot
+[submodule "val-repos/coqeal"]
+	path = val-repos/coqeal
+	url = https://github.com/coq-community/coqeal
+[submodule "cutoff-repos/bb5"]
+	path = cutoff-repos/bb5
+	url = https://github.com/ccz181078/Coq-BB5
+[submodule "cutoff-repos/pnvrocqlib"]
+	path = cutoff-repos/pnvrocqlib
+	url = https://github.com/PnvDiscord/PnVRocqLib
+[submodule "test-repos/poltac"]
+	path = test-repos/poltac
+	url = https://github.com/thery/PolTac
+[submodule "coqpyt"]
+	path = coqpyt
+	url = https://github.com/rkthomps/coqpyt

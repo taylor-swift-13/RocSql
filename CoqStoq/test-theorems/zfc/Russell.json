@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "zfc",
+      "split": {
+        "dir_name": "test-repos",
+        "thm_dir_name": "test-theorems"
+      },
+      "commit_hash": "ede7126560844c381c2b021003a8dbcb0668ecad",
+      "compile_args": [
+        "-R",
+        ".",
+        "ZFC"
+      ]
+    },
+    "path": "Russell.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 52,
+      "column": 4
+    },
+    "hash": "510780df08e0822e47924932c7f0de6f01791f104e728f97635582d3264eab48"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "refinements/trivial_seq.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 63
+    },
+    "hash": "6f61119a54e0c65e07af870464dc07572f3f3683cf748a5e0f61b5058d264e68"
+  }
+]

@@ -1,0 +1,1289 @@
+[
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 52,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 53,
+      "column": 18
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 58,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 58,
+      "column": 51
+    },
+    "proof_start_pos": {
+      "line": 59,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 59,
+      "column": 59
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 63,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 67,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 75,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 75,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 76
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 78,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 79,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 79,
+      "column": 72
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 81,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 82,
+      "column": 66
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 84,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 85,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 86,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 89,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 101,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 121,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 122,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 123,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 128,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 153,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 153,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 158,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 160,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 161,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 169,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 171,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 172,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 173,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 178,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 180,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 180,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 181,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 187,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 188,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 192,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 194,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 196,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 197,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 57
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 199,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 201,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 202,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 219,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 222,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 225,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 235,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 240,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 241,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 250,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 252,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 255,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 256,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 260,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 262,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 263,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 264,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 271,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 273,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 274,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 275,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 283,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 285,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 286,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 287,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 292,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 298,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 299,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 309,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 323,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 324,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 329,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 331,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 332,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 333,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 337,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 339,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 339,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 340,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 346,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 348,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 348,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 349,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 352,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 354,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 355,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 356,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 365,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 367,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 369,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 370,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 379,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 381,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 384,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 385,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 393,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 395,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 398,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 399,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 407,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 409,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 413,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 414,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 418,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 420,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 422,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 423,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 423,
+      "column": 57
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 425,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 429,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 430,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 440,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 457,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 458,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 459,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 531,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 533,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 534,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 535,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 540,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 542,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 543,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 544,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 551,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  },
+  {
+    "project": {
+      "dir_name": "coqeal",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "fb2ecaf4cf99d91351e2a18418d14bea8f24ca60",
+      "compile_args": [
+        "-R",
+        ".",
+        "CoqEAL"
+      ]
+    },
+    "path": "theory/similar.v",
+    "theorem_start_pos": {
+      "line": 561,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 563,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 564,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 589,
+      "column": 4
+    },
+    "hash": "efb6d985adffb850b1c5a35d7971391b6826888c1cc96154b42f568ea84fa940"
+  }
+]

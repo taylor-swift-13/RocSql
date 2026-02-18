@@ -1,0 +1,30 @@
+(library
+ (name staltac_plugin)
+ (public_name coq-stalmarck-tactic.plugin)
+ (flags :standard -w -3-27-32)
+ (modules :standard \ stal lexer parser main)
+ (libraries coq-core.plugins.ltac stal))
+
+(coq.pp (modules staltac))
+
+(library
+ (name stal)
+ (public_name coq-stalmarck-tactic.stal)
+ (modules stal))
+
+(coq.extraction
+ (prelude Extract)
+ (extracted_modules stal)
+;(theories Stalmarck.Algorithm)
+)
+
+(ocamllex lexer)
+
+(ocamlyacc parser)
+
+(executable
+ (name main)
+ (public_name stalmarck)
+ (libraries coq-stalmarck-tactic.stal unix)
+ (modules lexer parser main)
+ (package coq-stalmarck-tactic))

@@ -1,0 +1,16 @@
+*.d
+*.glob
+*.vo
+*.vos
+*.vok
+*.cmo
+*.cma
+*.cmx
+*.cmxs
+*.cmi
+*.o
+*.native
+*.aux
+Makefile.coq
+Makefile.coq.conf
+*~

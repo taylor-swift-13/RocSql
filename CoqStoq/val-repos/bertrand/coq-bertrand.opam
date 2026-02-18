@@ -1,0 +1,35 @@
+# This file was generated from `meta.yml`, please do not edit manually.
+# Follow the instructions on https://github.com/coq-community/templates to regenerate.
+
+opam-version: "2.0"
+maintainer: "palmskog@gmail.com"
+version: "dev"
+
+homepage: "https://github.com/coq-community/bertrand"
+dev-repo: "git+https://github.com/coq-community/bertrand.git"
+bug-reports: "https://github.com/coq-community/bertrand/issues"
+license: "LGPL-2.1-or-later"
+
+synopsis: "Coq proof of Bertrand's postulate on existence of primes"
+description: """
+A Coq proof of Bertrand's postulate, which says that there always
+exists a prime between n and 2n for n greater than 2. Includes
+an application of the postulate to compute partitions."""
+
+build: [make "-j%{jobs}%"]
+install: [make "install"]
+depends: [
+  "coq" {(>= "8.18" & < "8.20~") | (= "dev")}
+]
+
+tags: [
+  "category:Mathematics/Arithmetic and Number Theory/Number theory"
+  "category:Miscellaneous/Extracted Programs/Arithmetic"
+  "keyword:primality"
+  "keyword:prime numbers"
+  "keyword:Bertrand's postulate"
+  "logpath:Bertrand"
+]
+authors: [
+  "Laurent Théry"
+]

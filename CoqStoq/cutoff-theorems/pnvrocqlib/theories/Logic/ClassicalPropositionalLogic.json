@@ -1,0 +1,662 @@
+[
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 18,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 30,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 31,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 37,
+      "column": 24
+    },
+    "proof_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 47,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 49,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 52,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 55,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 59,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 62,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 64,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 66,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 69,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 71,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 76,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 78,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 80,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 81,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 83,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 85,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 92,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 94,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 96,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 97,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 99,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 101,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 104,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 105,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 107,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 109,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 117,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 120,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 121,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 123,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 128,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 129,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 133,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 10
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 154,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 301,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 303,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 305,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 306,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 326,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Logic/ClassicalPropositionalLogic.v",
+    "theorem_start_pos": {
+      "line": 328,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 329,
+      "column": 122
+    },
+    "proof_start_pos": {
+      "line": 330,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 337,
+      "column": 4
+    },
+    "hash": "7593a5eb1b42fc1c368c8154207cbfbb9e537d1635ad8c8e9d867b795d18d3c8"
+  }
+]

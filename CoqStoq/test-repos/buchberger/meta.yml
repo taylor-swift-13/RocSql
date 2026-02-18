@@ -1,0 +1,91 @@
+---
+fullname: Buchberger
+shortname: buchberger
+organization: coq-community
+community: true
+action: true
+nix: true
+coqdoc: false
+
+synopsis: Verified implementation in Coq of Buchberger's algorithm for computing Gröbner bases
+
+description: |-
+  A verified implementation of Buchberger's algorithm in Coq,
+  which computes the Gröbner basis associated with a polynomial ideal.
+  Also includes a constructive proof of Dickson's lemma.
+
+publications:
+- pub_url: https://link.springer.com/article/10.1023/A:1026518331905
+  pub_title: A machine checked implementation of Buchberger's algorithm
+  pub_doi: 10.1023/A:1026518331905
+- pub_url: https://hal.inria.fr/inria-00072316/
+  pub_title: An Integrated Development of Buchberger's Algorithm in Coq
+- pub_url: https://link.springer.com/chapter/10.1007/3-540-48167-2_3
+  pub_title: Gröbner Bases in Type Theory
+  pub_doi: 10.1007/3-540-48167-2_3
+
+authors:
+- name: Laurent Théry
+  initial: true
+- name: Henrik Persson
+  initial: true
+
+maintainers:
+- name: Karl Palmskog
+  nickname: palmskog
+
+opam-file-maintainer: palmskog@gmail.com
+
+opam-file-version: dev
+
+license:
+  fullname: GNU Lesser General Public License v2.1 or later
+  identifier: LGPL-2.1-or-later
+
+supported_coq_versions:
+  text: 8.17 or later
+  opam: '{>= "8.17"}'
+
+tested_coq_nix_versions:
+- coq_version: 'master'
+
+tested_coq_opam_versions:
+- version: dev
+- version: '8.18'
+- version: '8.17'
+
+namespace: Buchberger
+
+keywords:
+- name: Gröbner basis
+- name: polynomial ideal
+- name: Buchberger's algorithm
+
+categories:
+- name: Mathematics/Algebra
+- name: Miscellaneous/Extracted Programs/Combinatorics
+
+documentation: |-
+  ## Documentation
+
+  This project contains a Coq formalization of Buchberger's algorithm.
+  It is composed of:
+  - A proof of correctness of the algorithm as described in
+   [A machine checked implementation of Buchberger's algorithm][jar-url],
+   Journal of Automated Reasoning, January 2001.
+  - An implementation of the algorithm. With respect to the paper,
+    terms are not abstracted but built directly from coef and monomials.
+  - A constructive proof of Dickson's lemma due to Henrik Persson.
+
+  In the file `Extract.v`, it is explained how the extracted code found in
+  `sin_num.ml` can be used to compute Gröbner bases.
+
+  ## Related work
+
+  An alternative formalization of Gröbner bases in Coq using the SSReflect
+  proof language and the Mathematical Components library is available
+  [elsewhere][grobner-url].
+
+  [jar-url]: https://link.springer.com/article/10.1023/A:1026518331905
+  [grobner-url]: https://github.com/thery/grobner
+---

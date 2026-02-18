@@ -1,0 +1,101 @@
+[
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/Q_Archimedean.v",
+    "theorem_start_pos": {
+      "line": 12,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 12,
+      "column": 103
+    },
+    "proof_start_pos": {
+      "line": 13,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 25,
+      "column": 4
+    },
+    "hash": "cba967a537a74c472e2ee415764c2bf3481c2c1021deff77d591850998be8d09"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/Q_Archimedean.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 40,
+      "column": 4
+    },
+    "hash": "cba967a537a74c472e2ee415764c2bf3481c2c1021deff77d591850998be8d09"
+  },
+  {
+    "project": {
+      "dir_name": "qarith-stern-brocot",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "d3807d3e76a3100e85ba24ef3fe0520f10a7c928",
+      "compile_args": [
+        "-R",
+        "theories",
+        "QArithSternBrocot"
+      ]
+    },
+    "path": "theories/Q_Archimedean.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 58,
+      "column": 4
+    },
+    "hash": "cba967a537a74c472e2ee415764c2bf3481c2c1021deff77d591850998be8d09"
+  }
+]

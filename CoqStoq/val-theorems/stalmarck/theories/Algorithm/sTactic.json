@@ -1,0 +1,101 @@
+[
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/sTactic.v",
+    "theorem_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 26,
+      "column": 4
+    },
+    "hash": "c40832f5695b6568cab1d644ddabca29ced1fbe0257d061d5242a6d52db33b78"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/sTactic.v",
+    "theorem_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 28,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 4
+    },
+    "hash": "c40832f5695b6568cab1d644ddabca29ced1fbe0257d061d5242a6d52db33b78"
+  },
+  {
+    "project": {
+      "dir_name": "stalmarck",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4643e9507e7f03d485fc63410f7f500984d5be8b",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "Stalmarck"
+      ]
+    },
+    "path": "theories/Algorithm/sTactic.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 34,
+      "column": 4
+    },
+    "hash": "c40832f5695b6568cab1d644ddabca29ced1fbe0257d061d5242a6d52db33b78"
+  }
+]

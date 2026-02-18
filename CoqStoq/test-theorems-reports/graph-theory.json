@@ -1,0 +1,67 @@
+{
+  "project": {
+    "dir_name": "graph-theory",
+    "split": {
+      "dir_name": "val-repos",
+      "thm_dir_name": "val-theorems"
+    },
+    "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+    "compile_args": [
+      "-Q",
+      "theories",
+      "GraphTheory"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "val-repos/graph-theory/theories/core/preliminaries.v",
+      "val-repos/graph-theory/theories/core/open_confluence.v",
+      "val-repos/graph-theory/theories/core/equiv.v",
+      "val-repos/graph-theory/theories/core/structures.v",
+      "val-repos/graph-theory/theories/core/mgraph2.v",
+      "val-repos/graph-theory/theories/core/finmap_plus.v",
+      "val-repos/graph-theory/theories/core/excluded.v",
+      "val-repos/graph-theory/theories/core/extraction_def.v",
+      "val-repos/graph-theory/theories/core/arc.v",
+      "val-repos/graph-theory/theories/core/minor.v",
+      "val-repos/graph-theory/theories/core/smerge.v",
+      "val-repos/graph-theory/theories/core/rewriting.v",
+      "val-repos/graph-theory/theories/core/extraction_top.v",
+      "val-repos/graph-theory/theories/core/finite_quotient.v",
+      "val-repos/graph-theory/theories/core/bij.v",
+      "val-repos/graph-theory/theories/core/coloring.v",
+      "val-repos/graph-theory/theories/core/wpgt.v",
+      "val-repos/graph-theory/theories/core/checkpoint.v",
+      "val-repos/graph-theory/theories/core/helly.v",
+      "val-repos/graph-theory/theories/core/sgraph.v",
+      "val-repos/graph-theory/theories/core/ptt.v",
+      "val-repos/graph-theory/theories/core/treewidth.v",
+      "val-repos/graph-theory/theories/core/mgraph2_tw2.v",
+      "val-repos/graph-theory/theories/core/setoid_bigop.v",
+      "val-repos/graph-theory/theories/core/digraph.v",
+      "val-repos/graph-theory/theories/core/transfer.v",
+      "val-repos/graph-theory/theories/core/completeness.v",
+      "val-repos/graph-theory/theories/core/edone.v",
+      "val-repos/graph-theory/theories/core/set_tac.v",
+      "val-repos/graph-theory/theories/core/bounded.v",
+      "val-repos/graph-theory/theories/core/dom.v",
+      "val-repos/graph-theory/theories/core/connectivity.v",
+      "val-repos/graph-theory/theories/core/pttdom.v",
+      "val-repos/graph-theory/theories/core/cp_minor.v",
+      "val-repos/graph-theory/theories/core/mgraph.v",
+      "val-repos/graph-theory/theories/core/partition.v",
+      "val-repos/graph-theory/theories/core/skeleton.v",
+      "val-repos/graph-theory/theories/core/extraction_iso.v",
+      "val-repos/graph-theory/theories/core/reduction.v",
+      "val-repos/graph-theory/theories/planar/hmap_ops.v",
+      "val-repos/graph-theory/theories/planar/K4plane.v",
+      "val-repos/graph-theory/theories/planar/embedding.v",
+      "val-repos/graph-theory/theories/planar/wagner.v",
+      "val-repos/graph-theory/theories/planar/hcycle.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 1982
+  }
+}

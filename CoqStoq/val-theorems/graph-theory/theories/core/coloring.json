@@ -1,0 +1,2246 @@
+[
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 27,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 28,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 33,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 34,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 36,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 38,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 38,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 39,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 39,
+      "column": 43
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 41,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 42,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 48,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 50,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 50,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 51,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 51,
+      "column": 74
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 53,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 53,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 54,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 54,
+      "column": 69
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 56,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 56,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 57,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 57,
+      "column": 62
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 73,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 73,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 74,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 74,
+      "column": 61
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 76,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 76,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 77,
+      "column": 54
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 82,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 83,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 87,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 89,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 89,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 90,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 90,
+      "column": 70
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 92,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 92,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 93,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 98,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 99,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 102,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 104,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 105,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 106,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 109,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 111,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 112,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 113,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 119,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 121,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 121,
+      "column": 30
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 124,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 126,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 126,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 127,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 131,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 134,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 142,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 155,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 155,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 156,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 156,
+      "column": 28
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 158,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 158,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 159,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 159,
+      "column": 48
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 161,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 161,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 162,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 165,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 170,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 170,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 171,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 175,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 178,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 178,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 200,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 200,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 201,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 201,
+      "column": 53
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 204,
+      "column": 54
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 206,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 207,
+      "column": 53
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 209,
+      "column": 35
+    },
+    "proof_start_pos": {
+      "line": 210,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 214,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 216,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 217,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 217,
+      "column": 72
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 219,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 219,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 220,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 223,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 225,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 228,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 230,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 231,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 235,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 247,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 248,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 255,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 269,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 270,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 271,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 277,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 279,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 279,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 280,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 282,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 284,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 284,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 285,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 288,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 290,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 291,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 292,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 295,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 302,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 303,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 306,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 308,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 308,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 309,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 309,
+      "column": 62
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 311,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 312,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 313,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 317,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 319,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 319,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 320,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 323,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 325,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 325,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 326,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 329,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 331,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 331,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 332,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 337,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 339,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 339,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 340,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 344,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 346,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 346,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 347,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 356,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 358,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 358,
+      "column": 37
+    },
+    "proof_start_pos": {
+      "line": 359,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 362,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 364,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 364,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 365,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 373,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 378,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 378,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 379,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 379,
+      "column": 39
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 381,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 381,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 382,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 382,
+      "column": 39
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 384,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 384,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 385,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 385,
+      "column": 37
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 396,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 396,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 397,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 401,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 403,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 403,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 404,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 408,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 410,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 411,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 412,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 415,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 417,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 418,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 419,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 427,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 429,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 429,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 430,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 437,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 439,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 440,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 441,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 441,
+      "column": 61
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 443,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 444,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 445,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 449,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 451,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 451,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 452,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 452,
+      "column": 57
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 454,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 454,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 455,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 464,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 469,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 470,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 471,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 475,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 477,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 477,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 478,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 480,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 482,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 482,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 483,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 485,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 498,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 498,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 499,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 499,
+      "column": 67
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 501,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 501,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 502,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 502,
+      "column": 67
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 504,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 504,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 505,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 505,
+      "column": 63
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 507,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 507,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 508,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 508,
+      "column": 41
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 510,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 510,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 511,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 511,
+      "column": 40
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 515,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 516,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 517,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 524,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/coloring.v",
+    "theorem_start_pos": {
+      "line": 527,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 528,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 529,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 546,
+      "column": 4
+    },
+    "hash": "2d18055a71516390982bcec57526f6791317193f5970791f646d1e5783480b61"
+  }
+]

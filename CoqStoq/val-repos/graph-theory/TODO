@@ -1,0 +1,18 @@
+- pass on transfer / open_confluence
+- documentation + spell-checking
+- some light-blue background for text boxes?
+
+-----
+
+- solve rewriting/setoid_rewriting/Type/irewrite... (or at least uniformise)
+
+- get completeness for 2p algebra axioms by extending the rewrite system
+
+- use packed classes for getting a more fine-grain presentation of the structures we employ,
+  without running into efficiency problems
+  . for multigraphs and 2-pointed multigraphs (which inherit finType)
+  . for setoids, labels, pttdom, ptt and related structures
+
+- conservativity proof of 2p over 2pdom
+
+- simpler term extraction via the rewrite system? (requires expansion)

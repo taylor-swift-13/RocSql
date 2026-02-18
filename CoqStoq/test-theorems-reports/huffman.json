@@ -1,0 +1,46 @@
+{
+  "project": {
+    "dir_name": "huffman",
+    "split": {
+      "dir_name": "test-repos",
+      "thm_dir_name": "test-theorems"
+    },
+    "commit_hash": "03d40bd01f2bbccf774e369a3d3feaa2b2a5524a",
+    "compile_args": [
+      "-Q",
+      "theories",
+      "Huffman"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "test-repos/huffman/theories/SubstPred.v",
+      "test-repos/huffman/theories/Code.v",
+      "test-repos/huffman/theories/Weight.v",
+      "test-repos/huffman/theories/ISort.v",
+      "test-repos/huffman/theories/PBTree.v",
+      "test-repos/huffman/theories/Cover.v",
+      "test-repos/huffman/theories/SameSumLeaves.v",
+      "test-repos/huffman/theories/CoverMin.v",
+      "test-repos/huffman/theories/AuxLib.v",
+      "test-repos/huffman/theories/UniqueKey.v",
+      "test-repos/huffman/theories/WeightTree.v",
+      "test-repos/huffman/theories/Restrict.v",
+      "test-repos/huffman/theories/Frequency.v",
+      "test-repos/huffman/theories/Huffman.v",
+      "test-repos/huffman/theories/PBTree2BTree.v",
+      "test-repos/huffman/theories/OneStep.v",
+      "test-repos/huffman/theories/Ordered.v",
+      "test-repos/huffman/theories/HeightPred.v",
+      "test-repos/huffman/theories/OrderedCover.v",
+      "test-repos/huffman/theories/Build.v",
+      "test-repos/huffman/theories/Prod2List.v",
+      "test-repos/huffman/theories/BTree.v",
+      "test-repos/huffman/src/Extraction.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 256
+  }
+}

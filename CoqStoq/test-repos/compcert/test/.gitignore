@@ -1,0 +1,13 @@
+# CompCert-generated files
+*.o
+*.s
+*.sdump
+*.parsed.c
+*.compcert.c
+*.light.c
+*.compcert
+*.gcc
+# OCaml-generated files
+*.cmi
+*.cmo
+*.cmx

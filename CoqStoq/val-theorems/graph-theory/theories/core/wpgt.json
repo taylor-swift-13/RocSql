@@ -1,0 +1,1487 @@
+[
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 23,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 23,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 24,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 85
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 32,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 32,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 33,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 33,
+      "column": 68
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 35,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 35,
+      "column": 89
+    },
+    "proof_start_pos": {
+      "line": 36,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 44,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 46,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 46,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 47,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 50,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 63,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 64,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 65,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 65,
+      "column": 42
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 67,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 67,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 68,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 68,
+      "column": 58
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 77,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 79,
+      "column": 94
+    },
+    "proof_start_pos": {
+      "line": 80,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 96,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 98,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 101,
+      "column": 15
+    },
+    "proof_start_pos": {
+      "line": 102,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 115,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 120,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 121,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 127,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 135,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 135,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 136,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 136,
+      "column": 34
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 142,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 143,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 171,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 173,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 173,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 174,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 179,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 189,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 189,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 192,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 194,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 194,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 195,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 195,
+      "column": 57
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 199,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 200,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 201,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 205,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 208,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 214,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 217,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 218,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 222,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 225,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 226,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 226,
+      "column": 74
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 228,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 228,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 229,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 233,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 242,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 243,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 244,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 257,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 259,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 260,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 261,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 265,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 267,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 267,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 279,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 281,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 282,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 341,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 343,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 344,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 345,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 348,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 350,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 350,
+      "column": 73
+    },
+    "proof_start_pos": {
+      "line": 351,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 353,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 355,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 357,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 358,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 361,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 365,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 365,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 366,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 397,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 403,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 403,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 404,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 404,
+      "column": 59
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 406,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 407,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 408,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 478,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 480,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 480,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 481,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 495,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 508,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 509,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 510,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 534,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 548,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 548,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 549,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 549,
+      "column": 54
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 551,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 551,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 552,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 552,
+      "column": 63
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 554,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 555,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 556,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 556,
+      "column": 65
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 558,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 559,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 560,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 575,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 577,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 578,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 579,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 591,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 594,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 594,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 595,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 600,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 603,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 604,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 605,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 609,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 611,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 612,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 613,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 616,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 618,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 619,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 620,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 634,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 636,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 637,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 638,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 645,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 647,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 654,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 655,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 721,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 723,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 723,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 724,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 724,
+      "column": 38
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/wpgt.v",
+    "theorem_start_pos": {
+      "line": 726,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 727,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 728,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 762,
+      "column": 4
+    },
+    "hash": "484c3aa8e647afe123746caf8bb96290a04f4d3ead48b9433852b4f7e2d98fe4"
+  }
+]

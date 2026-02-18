@@ -1,0 +1,35 @@
+[
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "Finned3.v",
+    "theorem_start_pos": {
+      "line": 60,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 60,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 61,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 64,
+      "column": 4
+    },
+    "hash": "1e057f7a40df5dc2647b9f16624f6f6a2c3f6c45387a09d3930b86a94b2ab550"
+  }
+]

@@ -1,0 +1,563 @@
+[
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 41,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 44,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 45,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 73,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 82,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 86,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 87,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 110,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 141,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 143,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 144,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 149,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 151,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 151,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 152,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 152,
+      "column": 69
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 154,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 154,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 155,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 155,
+      "column": 44
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 175,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 182,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 187,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 189,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 200,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 224,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 226,
+      "column": 58
+    },
+    "proof_start_pos": {
+      "line": 227,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 235,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 260,
+      "column": 90
+    },
+    "proof_start_pos": {
+      "line": 261,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 295,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 297,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 297,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 298,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 298,
+      "column": 20
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 300,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 301,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 302,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 308,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 335,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 335,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 336,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 342,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 344,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 344,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 345,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 349,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 356,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 356,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 357,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 366,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 368,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 368,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 369,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 372,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 381,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 381,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 382,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 382,
+      "column": 17
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/reduction.v",
+    "theorem_start_pos": {
+      "line": 412,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 412,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 413,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 472,
+      "column": 4
+    },
+    "hash": "16485d1f15975453c01f92f619fcc16e363293cd13a13c2edf6d878f158318d1"
+  }
+]

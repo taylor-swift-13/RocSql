@@ -1,0 +1,63 @@
+{
+  "project": {
+    "dir_name": "poltac",
+    "split": {
+      "dir_name": "test-repos",
+      "thm_dir_name": "test-theorems"
+    },
+    "commit_hash": "90c42be344fd778261fd84b065809b2c81938c49",
+    "compile_args": [
+      "-R",
+      ".",
+      "PolTac"
+    ]
+  },
+  "report": {
+    "successful_files": [
+      "test-repos/poltac/Zex.v",
+      "test-repos/poltac/PolTac.v",
+      "test-repos/poltac/Replace2.v",
+      "test-repos/poltac/P.v",
+      "test-repos/poltac/Natex.v",
+      "test-repos/poltac/ZPolTac.v",
+      "test-repos/poltac/ZPolS.v",
+      "test-repos/poltac/RPolTac.v",
+      "test-repos/poltac/NPolF.v",
+      "test-repos/poltac/Nex.v",
+      "test-repos/poltac/NPolTac.v",
+      "test-repos/poltac/NPolS.v",
+      "test-repos/poltac/ZPolF.v",
+      "test-repos/poltac/Rex.v",
+      "test-repos/poltac/NatGroundTac.v",
+      "test-repos/poltac/RGroundTac.v",
+      "test-repos/poltac/NatSignTac.v",
+      "test-repos/poltac/NatPolTac.v",
+      "test-repos/poltac/PolAuxList.v",
+      "test-repos/poltac/NPolR.v",
+      "test-repos/poltac/NSignTac.v",
+      "test-repos/poltac/ZPolR.v",
+      "test-repos/poltac/RAux.v",
+      "test-repos/poltac/ReplaceTest.v",
+      "test-repos/poltac/NGroundTac.v",
+      "test-repos/poltac/NatAux.v",
+      "test-repos/poltac/ZAux.v",
+      "test-repos/poltac/RPolS.v",
+      "test-repos/poltac/NatPolR.v",
+      "test-repos/poltac/PolFBase.v",
+      "test-repos/poltac/PolAux.v",
+      "test-repos/poltac/RPolF.v",
+      "test-repos/poltac/PolRBase.v",
+      "test-repos/poltac/RSignTac.v",
+      "test-repos/poltac/NatPolF.v",
+      "test-repos/poltac/ZSignTac.v",
+      "test-repos/poltac/PolSBase.v",
+      "test-repos/poltac/RPolR.v",
+      "test-repos/poltac/NatPolS.v",
+      "test-repos/poltac/NAux.v"
+    ],
+    "errored_files": [],
+    "timed_out_files": [],
+    "lsp_error_files": [],
+    "num_theorems": 259
+  }
+}

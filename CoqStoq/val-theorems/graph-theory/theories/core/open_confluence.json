@@ -1,0 +1,3467 @@
+[
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 19,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 19,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 20,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 24,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 26,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 26,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 27,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 27,
+      "column": 89
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 29,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 29,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 30,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 30,
+      "column": 43
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 121,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 121,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 122,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 122,
+      "column": 35
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 124,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 124,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 125,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 130,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 176,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 176,
+      "column": 78
+    },
+    "proof_start_pos": {
+      "line": 177,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 177,
+      "column": 47
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 179,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 179,
+      "column": 95
+    },
+    "proof_start_pos": {
+      "line": 180,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 184,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 186,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 187,
+      "column": 54
+    },
+    "proof_start_pos": {
+      "line": 188,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 188,
+      "column": 74
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 190,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 191,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 192,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 197,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 203,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 203,
+      "column": 45
+    },
+    "proof_start_pos": {
+      "line": 204,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 204,
+      "column": 62
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 206,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 206,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 207,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 207,
+      "column": 62
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 209,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 210,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 211,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 211,
+      "column": 93
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 215,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 215,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 216,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 216,
+      "column": 46
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 218,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 218,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 219,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 219,
+      "column": 46
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 223,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 224,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 225,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 227,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 229,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 229,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 230,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 235,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 237,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 238,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 239,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 239,
+      "column": 85
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 241,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 242,
+      "column": 39
+    },
+    "proof_start_pos": {
+      "line": 243,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 243,
+      "column": 51
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 245,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 246,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 247,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 247,
+      "column": 53
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 249,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 250,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 251,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 251,
+      "column": 50
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 253,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 254,
+      "column": 33
+    },
+    "proof_start_pos": {
+      "line": 255,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 255,
+      "column": 50
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 257,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 257,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 258,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 258,
+      "column": 66
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 260,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 261,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 262,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 262,
+      "column": 66
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 264,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 265,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 266,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 266,
+      "column": 49
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 268,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 269,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 270,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 273,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 275,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 276,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 277,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 280,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 282,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 282,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 283,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 283,
+      "column": 72
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 285,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 286,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 287,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 293,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 295,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 296,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 297,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 300,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 360,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 360,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 361,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 361,
+      "column": 40
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 392,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 393,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 394,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 398,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 400,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 401,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 402,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 408,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 410,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 411,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 412,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 412,
+      "column": 35
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 456,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 456,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 457,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 457,
+      "column": 38
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 459,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 459,
+      "column": 72
+    },
+    "proof_start_pos": {
+      "line": 460,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 460,
+      "column": 18
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 462,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 462,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 463,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 463,
+      "column": 34
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 465,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 465,
+      "column": 87
+    },
+    "proof_start_pos": {
+      "line": 466,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 466,
+      "column": 21
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 468,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 468,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 469,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 469,
+      "column": 33
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 475,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 475,
+      "column": 74
+    },
+    "proof_start_pos": {
+      "line": 475,
+      "column": 75
+    },
+    "proof_end_pos": {
+      "line": 475,
+      "column": 85
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 476,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 476,
+      "column": 79
+    },
+    "proof_start_pos": {
+      "line": 476,
+      "column": 80
+    },
+    "proof_end_pos": {
+      "line": 476,
+      "column": 90
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 477,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 477,
+      "column": 69
+    },
+    "proof_start_pos": {
+      "line": 477,
+      "column": 70
+    },
+    "proof_end_pos": {
+      "line": 477,
+      "column": 80
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 480,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 480,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 480,
+      "column": 58
+    },
+    "proof_end_pos": {
+      "line": 480,
+      "column": 68
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 481,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 481,
+      "column": 71
+    },
+    "proof_start_pos": {
+      "line": 481,
+      "column": 72
+    },
+    "proof_end_pos": {
+      "line": 481,
+      "column": 82
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 483,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 483,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 483,
+      "column": 78
+    },
+    "proof_end_pos": {
+      "line": 483,
+      "column": 88
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 485,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 485,
+      "column": 85
+    },
+    "proof_start_pos": {
+      "line": 486,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 490,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 492,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 493,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 494,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 497,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 499,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 500,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 501,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 501,
+      "column": 56
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 503,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 504,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 505,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 505,
+      "column": 54
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 507,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 508,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 509,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 511,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 513,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 514,
+      "column": 70
+    },
+    "proof_start_pos": {
+      "line": 515,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 515,
+      "column": 66
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 518,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 518,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 518,
+      "column": 77
+    },
+    "proof_end_pos": {
+      "line": 518,
+      "column": 87
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 524,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 525,
+      "column": 49
+    },
+    "proof_start_pos": {
+      "line": 526,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 526,
+      "column": 34
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 528,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 529,
+      "column": 75
+    },
+    "proof_start_pos": {
+      "line": 530,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 534,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 536,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 536,
+      "column": 84
+    },
+    "proof_start_pos": {
+      "line": 536,
+      "column": 85
+    },
+    "proof_end_pos": {
+      "line": 536,
+      "column": 95
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 538,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 539,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 540,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 542,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 544,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 545,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 546,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 551,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 553,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 554,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 555,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 560,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 562,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 564,
+      "column": 64
+    },
+    "proof_start_pos": {
+      "line": 565,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 570,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 572,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 572,
+      "column": 82
+    },
+    "proof_start_pos": {
+      "line": 573,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 573,
+      "column": 85
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 576,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 577,
+      "column": 34
+    },
+    "proof_start_pos": {
+      "line": 578,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 582,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 584,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 585,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 586,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 588,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 590,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 591,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 592,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 592,
+      "column": 89
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 595,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 597,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 598,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 602,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 604,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 604,
+      "column": 77
+    },
+    "proof_start_pos": {
+      "line": 605,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 609,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 611,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 612,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 613,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 613,
+      "column": 51
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 615,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 616,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 617,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 617,
+      "column": 68
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 619,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 620,
+      "column": 52
+    },
+    "proof_start_pos": {
+      "line": 621,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 626,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 632,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 632,
+      "column": 80
+    },
+    "proof_start_pos": {
+      "line": 633,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 637,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 639,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 640,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 641,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 648,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 650,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 651,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 652,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 652,
+      "column": 17
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 656,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 658,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 659,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 663,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 665,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 665,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 666,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 669,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 671,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 672,
+      "column": 59
+    },
+    "proof_start_pos": {
+      "line": 673,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 673,
+      "column": 17
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 675,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 676,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 677,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 677,
+      "column": 17
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 679,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 680,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 681,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 681,
+      "column": 68
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 683,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 684,
+      "column": 27
+    },
+    "proof_start_pos": {
+      "line": 685,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 685,
+      "column": 82
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 687,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 688,
+      "column": 66
+    },
+    "proof_start_pos": {
+      "line": 689,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 689,
+      "column": 17
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 691,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 692,
+      "column": 31
+    },
+    "proof_start_pos": {
+      "line": 693,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 693,
+      "column": 45
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 695,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 696,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 697,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 702,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 704,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 705,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 706,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 710,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 712,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 713,
+      "column": 68
+    },
+    "proof_start_pos": {
+      "line": 714,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 714,
+      "column": 17
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 733,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 733,
+      "column": 61
+    },
+    "proof_start_pos": {
+      "line": 734,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 738,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 761,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 763,
+      "column": 43
+    },
+    "proof_start_pos": {
+      "line": 764,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 764,
+      "column": 64
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 766,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 767,
+      "column": 57
+    },
+    "proof_start_pos": {
+      "line": 768,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 771,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 773,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 774,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 775,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 781,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 786,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 787,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 788,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 792,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 796,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 797,
+      "column": 48
+    },
+    "proof_start_pos": {
+      "line": 798,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 802,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 804,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 804,
+      "column": 65
+    },
+    "proof_start_pos": {
+      "line": 805,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 805,
+      "column": 62
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 808,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 809,
+      "column": 41
+    },
+    "proof_start_pos": {
+      "line": 810,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 816,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 818,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 819,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 820,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 827,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 829,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 830,
+      "column": 46
+    },
+    "proof_start_pos": {
+      "line": 831,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 834,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 836,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 837,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 838,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 842,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 844,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 845,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 846,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 850,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 909,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 909,
+      "column": 47
+    },
+    "proof_start_pos": {
+      "line": 910,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 910,
+      "column": 29
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 914,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 914,
+      "column": 63
+    },
+    "proof_start_pos": {
+      "line": 915,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 915,
+      "column": 38
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 917,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 917,
+      "column": 62
+    },
+    "proof_start_pos": {
+      "line": 918,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 918,
+      "column": 62
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 933,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 936,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 937,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 946,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 948,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 948,
+      "column": 76
+    },
+    "proof_start_pos": {
+      "line": 949,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 949,
+      "column": 54
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 951,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 951,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 952,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 955,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 957,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 958,
+      "column": 42
+    },
+    "proof_start_pos": {
+      "line": 959,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 960,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 964,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 965,
+      "column": 91
+    },
+    "proof_start_pos": {
+      "line": 966,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 966,
+      "column": 58
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 970,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 971,
+      "column": 95
+    },
+    "proof_start_pos": {
+      "line": 972,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1538,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 1542,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1542,
+      "column": 81
+    },
+    "proof_start_pos": {
+      "line": 1543,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1550,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 1552,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1552,
+      "column": 83
+    },
+    "proof_start_pos": {
+      "line": 1553,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1559,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  },
+  {
+    "project": {
+      "dir_name": "graph-theory",
+      "split": {
+        "dir_name": "val-repos",
+        "thm_dir_name": "val-theorems"
+      },
+      "commit_hash": "4bc29600fd8df75a34f6c0e9c18589c597742a60",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "GraphTheory"
+      ]
+    },
+    "path": "theories/core/open_confluence.v",
+    "theorem_start_pos": {
+      "line": 1561,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1562,
+      "column": 67
+    },
+    "proof_start_pos": {
+      "line": 1563,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1567,
+      "column": 4
+    },
+    "hash": "6625f942746141b63257efb9a5865019a061f516f0cb515e5f9a501d39123db4"
+  }
+]

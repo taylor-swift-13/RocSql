@@ -1,0 +1,827 @@
+[
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 294,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 295,
+      "column": 22
+    },
+    "proof_start_pos": {
+      "line": 296,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 296,
+      "column": 24
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 455,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 455,
+      "column": 40
+    },
+    "proof_start_pos": {
+      "line": 456,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 456,
+      "column": 23
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1471,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1472,
+      "column": 18
+    },
+    "proof_start_pos": {
+      "line": 1473,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1473,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1475,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1477,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 1478,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1478,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1480,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1482,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 1483,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1483,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1485,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1487,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 1488,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1488,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1490,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1492,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 1493,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1493,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1495,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1497,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 1498,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1498,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1500,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1503,
+      "column": 56
+    },
+    "proof_start_pos": {
+      "line": 1504,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1504,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1568,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1571,
+      "column": 4
+    },
+    "proof_start_pos": {
+      "line": 1572,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1572,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1574,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1576,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 1577,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1577,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 1579,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 1582,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 1583,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 1583,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2580,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2582,
+      "column": 14
+    },
+    "proof_start_pos": {
+      "line": 2583,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2583,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2585,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2587,
+      "column": 20
+    },
+    "proof_start_pos": {
+      "line": 2588,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2588,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2590,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2592,
+      "column": 26
+    },
+    "proof_start_pos": {
+      "line": 2593,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2593,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2595,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2597,
+      "column": 32
+    },
+    "proof_start_pos": {
+      "line": 2598,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2598,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2600,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2602,
+      "column": 38
+    },
+    "proof_start_pos": {
+      "line": 2603,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2603,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2605,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2607,
+      "column": 44
+    },
+    "proof_start_pos": {
+      "line": 2608,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2608,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 2610,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 2612,
+      "column": 50
+    },
+    "proof_start_pos": {
+      "line": 2613,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 2613,
+      "column": 38
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 3226,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3227,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 3228,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3232,
+      "column": 4
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 3296,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 3297,
+      "column": 36
+    },
+    "proof_start_pos": {
+      "line": 3298,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 3298,
+      "column": 28
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 4601,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4602,
+      "column": 28
+    },
+    "proof_start_pos": {
+      "line": 4603,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4603,
+      "column": 23
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 4605,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4606,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 4607,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4607,
+      "column": 23
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 4609,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4610,
+      "column": 29
+    },
+    "proof_start_pos": {
+      "line": 4611,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4611,
+      "column": 23
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  },
+  {
+    "project": {
+      "dir_name": "bb5",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "632ba68b03adb27f4f6faaa76b83db934d5ecbba",
+      "compile_args": [
+        "-Q",
+        ".",
+        "BusyCoq"
+      ]
+    },
+    "path": "LibTactics.v",
+    "theorem_start_pos": {
+      "line": 4816,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 4817,
+      "column": 60
+    },
+    "proof_start_pos": {
+      "line": 4818,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 4828,
+      "column": 4
+    },
+    "hash": "9f47da45d2296c3694777d6e67c11bc25ce1c0df0501fbb3f3adec632c431181"
+  }
+]

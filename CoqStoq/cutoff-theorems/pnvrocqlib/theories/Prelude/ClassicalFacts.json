@@ -1,0 +1,101 @@
+[
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Prelude/ClassicalFacts.v",
+    "theorem_start_pos": {
+      "line": 5,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 7,
+      "column": 12
+    },
+    "proof_start_pos": {
+      "line": 8,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 12,
+      "column": 4
+    },
+    "hash": "2c53eb00d8ede301195d5d7cc089180bdcfdf43d003ab1a5b5e958e41c72f7d6"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Prelude/ClassicalFacts.v",
+    "theorem_start_pos": {
+      "line": 14,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 15,
+      "column": 53
+    },
+    "proof_start_pos": {
+      "line": 16,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 20,
+      "column": 4
+    },
+    "hash": "2c53eb00d8ede301195d5d7cc089180bdcfdf43d003ab1a5b5e958e41c72f7d6"
+  },
+  {
+    "project": {
+      "dir_name": "pnvrocqlib",
+      "split": {
+        "dir_name": "cutoff-repos",
+        "thm_dir_name": "cutoff-theorems"
+      },
+      "commit_hash": "f621247710cd561539dbdbf5c95d56c29ae545c8",
+      "compile_args": [
+        "-Q",
+        "theories",
+        "PnV"
+      ]
+    },
+    "path": "theories/Prelude/ClassicalFacts.v",
+    "theorem_start_pos": {
+      "line": 22,
+      "column": 0
+    },
+    "theorem_end_pos": {
+      "line": 24,
+      "column": 55
+    },
+    "proof_start_pos": {
+      "line": 25,
+      "column": 0
+    },
+    "proof_end_pos": {
+      "line": 31,
+      "column": 4
+    },
+    "hash": "2c53eb00d8ede301195d5d7cc089180bdcfdf43d003ab1a5b5e958e41c72f7d6"
+  }
+]

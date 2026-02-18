@@ -1,0 +1,129 @@
+---
+fullname: Math Classes
+shortname: math-classes
+organization: coq-community
+community: true
+action: true
+ci_extra_dev: true
+doi: 10.1017/S0960129511000119
+
+synopsis: >-
+  A library of abstract interfaces for mathematical structures in Coq
+
+description: |
+  Math classes is a library of abstract interfaces for mathematical
+  structures, such as:
+
+  *  Algebraic hierarchy (groups, rings, fields, …)
+  *  Relations, orders, …
+  *  Categories, functors, universal algebra, …
+  *  Numbers: N, Z, Q, …
+  *  Operations, (shift, power, abs, …)
+
+  It is heavily based on Coq’s new type classes in order to provide:
+  structure inference, multiple inheritance/sharing, convenient
+  algebraic manipulation (e.g. rewriting) and idiomatic use of
+  notations.
+
+publications:
+- pub_doi: 10.1017/S0960129511000119
+  pub_url: https://arxiv.org/abs/1102.1323
+  pub_title: Type Classes for Mathematics in Type Theory
+
+authors:
+- name: Eelis van der Weegen
+  initial: true
+- name: Bas Spitters
+  initial: true
+- name: Robbert Krebbers
+  initial: true
+
+maintainers:
+- name: Bas Spitters
+  nickname: spitters
+
+opam-file-maintainer: b.a.w.spitters@gmail.com
+
+license:
+  fullname: MIT License
+  identifier: MIT
+
+supported_coq_versions:
+  text: Coq 8.11 or later (use releases for other Coq versions)
+  opam: '{(>= "8.11" & < "8.19~") | (= "dev")}'
+
+tested_coq_opam_versions:
+- version: dev
+- version: "8.18"
+- version: "8.17"
+- version: "8.16"
+- version: "8.15"
+- version: "8.14"
+- version: "8.13"
+- version: "8.12"
+- version: "8.11"
+
+dependencies:
+- opam:
+    name: coq-bignums
+  nix: bignums
+  description: "[BigNums](https://github.com/coq/bignums)"
+
+namespace: MathClasses
+
+build: |
+  ## Building and installation instructions
+
+  The easiest way to install the latest released version of Math Classes
+  is via [OPAM](https://opam.ocaml.org/doc/Install.html):
+
+  ```shell
+  opam repo add coq-released https://coq.inria.fr/opam/released
+  opam install coq-math-classes
+  ```
+
+  To instead build and install manually, do:
+
+  ``` shell
+  git clone https://github.com/coq-community/math-classes.git
+  cd math-classes
+  ./configure.sh
+  make   # or make -j <number-of-cores-on-your-machine>
+  make install
+  ```
+
+documentation: |
+  ## Directory structure
+
+  ### categories/
+  Proofs that certain structures form categories.
+
+  ### functors/
+
+  ### interfaces/
+  Definitions of abstract interfaces/structures.
+
+  ### implementations/
+  Definitions of concrete data structures and algorithms, and proofs that they are instances of certain structures (i.e. implement certain interfaces).
+
+  ### misc/
+  Miscellaneous things.
+
+  ### orders/
+  Theory about orders on different structures.
+
+  ### quote/
+  Prototype implementation of type class based quoting. To be integrated.
+
+  ### theory/
+  Proofs of properties of structures.
+
+  ### varieties/
+  Proofs that certain structures are varieties, and translation to/from type classes dedicated to these structures (defined in interfaces/).
+
+  The reason we treat categories and varieties differently from other structures
+  (like groups and rings) is that they are like meta-interfaces whose implementations
+  are not concrete data structures and algorithms but are themselves abstract structures.
+
+  To be able to distinguish the various arrows, we recommend using a variable width font.
+---

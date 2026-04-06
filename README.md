@@ -1,161 +1,84 @@
 # ACProver
 
-ACProver is a Coq proof verification workspace built on top of the CoqStoq dataset.
+ACProver is a local Coq proving workspace built on top of CoqStoq. The current runtime is intentionally small:
+
+- Codex is the proof engine
+- the local Coq shell is the proof surface
+- the launcher hides the target theorem's original proof in a disposable shadow workspace
+- every run is logged under `log/`
 
 Repository layout:
 
-- `src/`: verification tools, build scripts, and LLM proof client
+- `src/`: launcher, theorem loading, logging, and local Coq helpers
+- `docs/`: runtime contract and workflow notes
+- `skills/`: Codex skill used during proof runs
+- `config/`: machine-local defaults
 - `CoqStoq/`: dataset projects, theorem metadata, and source repositories
 
-## 1) Environment Setup
+## Environment
 
-This project uses **conda + opam**.
+The runtime expects a local Coq 8.18 toolchain. The preferred switch name lives in `config/acprover.local.json`.
+The semantic experience index uses the configured `coq-py310` conda environment.
 
-### Create conda env
-
-```bash
-CONDA_NO_PLUGINS=true conda create --solver classic -y -n coq-py310 python=3.10
-conda activate coq-py310
-```
-
-### Create opam switch
+Quick check:
 
 ```bash
-opam switch create coqswitch ocaml-base-compiler.4.14.2
-opam repo add coq-released https://coq.inria.fr/opam/released
 eval "$(opam env --switch=coqswitch)"
-```
-
-### Install Coq toolchain
-
-```bash
-opam install --switch=coqswitch -y \
-  coq.8.18.0 \
-  coq-mathcomp-ssreflect.2.2.0 \
-  coq-mathcomp-algebra.2.2.0 \
-  coq-mathcomp-field.2.2.0 \
-  coq-mathcomp-solvable.2.2.0 \
-  coq-mathcomp-finmap.2.1.0 \
-  coq-mathcomp-real-closed.2.0.1 \
-  coq-mathcomp-multinomials.2.2.0 \
-  coq-fourcolor.1.3.1 \
-  coq-bignums.9.0.0+coq8.18 \
-  coq-paramcoq.1.1.3+coq8.18
-```
-
-### Activate project env vars
-
-```bash
-cd /home/yangfp/ACProver/src
-source activate_coq_env.sh
 coqc --version
 ```
 
-Expected: `The Coq Proof Assistant, version 8.18.0`.
+For the semantic explanation index, install `faiss-cpu` in the `coq-py310` conda env, for example:
 
-## 2) Build All CoqStoq Projects
+```bash
+conda install -n coq-py310 numpy faiss-cpu -c conda-forge
+```
+
+## Main entry points
+
+- `proof_task_client.py`: root CLI entry
+- `src/proof_task_client.py`: thin Codex launcher
+- `src/theorem_task.py`: theorem lookup and target-proof masking
+- `src/codex_runner.py`: shadow-workspace setup and `codex exec`
+- `src/verify.py`: local proof verifier
+- `src/coq_print.py`: local print/check/search helper
+
+## Run a proof task
+
+```bash
+python3 proof_task_client.py --theorem-id test:1 --timeout-seconds 120
+```
+
+Useful inspection commands:
+
+```bash
+python3 proof_task_client.py --theorem-id test:1 --dump-task
+python3 proof_task_client.py --theorem-id test:1 --dump-prompt
+```
+
+## Logs
+
+Each run writes a directory under `log/` containing:
+
+- `task.json`
+- `prompt.txt`
+- `codex_command.json`
+- `runtime_env.json`
+- `workspace_manifest.json`
+- `events.jsonl`
+- `codex_stderr.log`
+- `result.json`
+- `readable`
+- `temp_initial.v`
+- `final_temp_snapshot.v` when available
+
+The shadow workspace is deleted after the run. The original repository tree is left untouched.
+
+## Maintenance helpers
+
+If you need to rebuild the dataset projects:
 
 ```bash
 cd src
-conda activate coq-py310
-source activate_coq_env.sh
-export N_JOBS=4
 bash build_coqstoq_complete.sh
-```
-
-Build status check:
-
-```bash
 python3 check_build_status.py
-```
-
-## 3) Verify a Proof
-
-### CLI
-
-```bash
-cd src
-python3 verify_proof.py test:39 "Proof. intros a b1 b2 l H; inversion H; auto. Qed."
-```
-
-### Python API
-
-```python
-from verify import verify_proof
-
-proof = """Proof.
-intros a b1 b2 l H; inversion H; auto.
-Qed."""
-
-result = verify_proof("test:39", proof)
-print(result["state"], result["proof_status"])
-```
-
-Return states:
-
-- `proven`
-- `failed`
-- `in_progress`
-- `error`
-
-## 4) Print / Check / Locate / Search
-
-Use `coq_print.py` for external queries.
-
-```bash
-cd src
-python3 coq_print.py "Print nat."
-python3 coq_print.py "Check plus."
-python3 coq_print.py "Print unique_key_in." --repo ../CoqStoq/test-repos/huffman --compile-args "-R theories Huffman"
-```
-
-Note: proof-state `Show.` is handled internally by `verify_proof` during `in_progress` verification and is not exposed as a separate script.
-
-## 5) Proof Task Client
-
-`proof_task_client.py` runs an LLM tool loop for a fixed theorem task.
-
-- Fixed per task: `theorem_id`, `repo`, `compile_args`
-- Model-provided parameters only:
-  - `verify_proof`: `proof`
-  - `print`: `definition`
-
-Run:
-
-```bash
-cd /home/yangfp/ACProver/src
-python3 proof_task_client.py --theorem-id test:39 --max-steps 20
-```
-
-System prompt preview:
-
-```bash
-python3 proof_task_client.py --theorem-id test:39 --dump-system-prompt
-```
-
-## 6) Common Issues
-
-### `.vo` version mismatch (`bad version number`)
-
-Rebuild all projects with the current Coq switch:
-
-```bash
-cd src
-bash build_coqstoq_complete.sh
-```
-
-### Wrong opam switch / OCaml mismatch
-
-```bash
-eval "$(opam env --switch=coqswitch)"
-coqc --version
-```
-
-### Missing `coqpyt` import
-
-Always source project env vars before running tools:
-
-```bash
-cd src
-source activate_coq_env.sh
 ```

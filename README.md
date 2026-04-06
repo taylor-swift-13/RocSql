@@ -55,6 +55,12 @@ python3 proof_task_client.py --theorem-id test:1 --dump-task
 python3 proof_task_client.py --theorem-id test:1 --dump-prompt
 ```
 
+Natural-language experience query:
+
+```bash
+python3 src/coqstoq_tools.py query-experience --description "prove an order lemma from equality in mathcomp" -k 5
+```
+
 ## Logs
 
 Each run writes a directory under `log/` containing:

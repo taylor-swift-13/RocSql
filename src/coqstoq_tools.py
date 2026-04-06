@@ -15,11 +15,13 @@ from typing import Any, Dict, List, Optional
 try:
     from acprover_config import load_config
     from coq_print import execute_print_command
+    from experience_retrieval import query_experiences_by_description
     from theorem_task import TheoremTask
     from verify import CoqProofVerifier
 except ModuleNotFoundError:
     from .acprover_config import load_config
     from .coq_print import execute_print_command
+    from .experience_retrieval import query_experiences_by_description
     from .theorem_task import TheoremTask
     from .verify import CoqProofVerifier
 
@@ -217,6 +219,16 @@ def cmd_bm25_search(args: argparse.Namespace) -> Dict[str, Any]:
     return search.search(args.query, k=args.k, scope=args.scope)
 
 
+def cmd_query_experience(args: argparse.Namespace) -> Dict[str, Any]:
+    hits = query_experiences_by_description(args.description, limit=args.k)
+    return {
+        "success": True,
+        "description": args.description,
+        "k": args.k,
+        "hits": hits,
+    }
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser("Local theorem-oriented CoqStoq tools.")
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -244,6 +256,10 @@ def build_parser() -> argparse.ArgumentParser:
     bm25_parser.add_argument("-k", type=int, default=8)
     bm25_parser.add_argument("--scope", default="repo")
 
+    experience_parser = subparsers.add_parser("query-experience")
+    experience_parser.add_argument("--description", required=True)
+    experience_parser.add_argument("-k", type=int, default=5)
+
     return parser
 
 
@@ -259,6 +275,8 @@ def main() -> None:
         result = cmd_print_definition(args)
     elif args.command == "bm25-search":
         result = cmd_bm25_search(args)
+    elif args.command == "query-experience":
+        result = cmd_query_experience(args)
     else:
         raise ValueError(f"unknown command: {args.command}")
     print(json.dumps(result, ensure_ascii=False, indent=2))

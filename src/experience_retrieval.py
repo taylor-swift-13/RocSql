@@ -8,7 +8,7 @@ import re
 import shutil
 import subprocess
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 try:
     from acprover_config import load_config
@@ -102,26 +102,46 @@ def _coq_library_overlap(query_libs: Dict[str, Any], metadata_libs: Dict[str, An
     return len(query_tokens & metadata_tokens)
 
 
-def _fallback_search(task: TheoremTask, limit: int) -> List[Dict[str, Any]]:
-    query = _query_metadata(task)
-    query_tokens = set(_tokenize(query["semantic_explanation"]))
-    query_types = set(query["normalized_theorem_types"])
+def _search_from_query_metadata(
+    query_semantic_explanation: str,
+    query_types: List[str],
+    query_libraries: Optional[Dict[str, Any]],
+    *,
+    limit: int,
+    project: str = "",
+    file_relpath: str = "",
+) -> List[Dict[str, Any]]:
+    query_tokens = set(_tokenize(query_semantic_explanation))
+    query_type_set = set(query_types)
+    query_libraries = query_libraries or {}
     scored: List[tuple[float, Dict[str, Any], Dict[str, Any]]] = []
     for metadata in _load_metadata_records():
         metadata_text = str(metadata.get("semantic_explanation", ""))
         score = 0.0
         score += 1.0 * len(query_tokens & set(_tokenize(metadata_text)))
-        score += 4.0 * len(query_types & set(map(str, metadata.get("normalized_theorem_types", []))))
-        score += 1.5 * _coq_library_overlap(query["coq_libraries"], metadata.get("coq_libraries", {}))
-        if metadata.get("project") == task.project:
+        score += 4.0 * len(query_type_set & set(map(str, metadata.get("normalized_theorem_types", []))))
+        score += 1.5 * _coq_library_overlap(query_libraries, metadata.get("coq_libraries", {}))
+        if project and metadata.get("project") == project:
             score += 12.0
-        if metadata.get("file_relpath") == task.file_relpath:
+        if file_relpath and metadata.get("file_relpath") == file_relpath:
             score += 10.0
         if score <= 0:
             continue
         scored.append((score, metadata, {"mode": "fallback"}))
     scored.sort(key=lambda item: item[0], reverse=True)
     return [_decorate_hit(score, metadata, breakdown) for score, metadata, breakdown in scored[:limit]]
+
+
+def _fallback_search(task: TheoremTask, limit: int) -> List[Dict[str, Any]]:
+    query = _query_metadata(task)
+    return _search_from_query_metadata(
+        query["semantic_explanation"],
+        query["normalized_theorem_types"],
+        query["coq_libraries"],
+        limit=limit,
+        project=task.project,
+        file_relpath=task.file_relpath,
+    )
 
 
 def _run_faiss_search(query: str, limit: int) -> List[Dict[str, Any]]:
@@ -208,6 +228,39 @@ def retrieve_relevant_experiences(task: TheoremTask, limit: int = 3) -> List[Dic
                     "library_overlap": library_overlap,
                     "project_bonus": project_bonus,
                     "file_bonus": file_bonus,
+                },
+            )
+        )
+    reranked.sort(key=lambda item: item[0], reverse=True)
+    return [_decorate_hit(score, metadata, breakdown) for score, metadata, breakdown in reranked[:limit]]
+
+
+def query_experiences_by_description(description: str, limit: int = 5) -> List[Dict[str, Any]]:
+    query = str(description).strip()
+    if not query or limit <= 0:
+        return []
+    try:
+        faiss_hits = _run_faiss_search(query, limit=max(limit * 3, 6))
+    except Exception:
+        return _search_from_query_metadata(query, [], {}, limit=limit)
+
+    query_tokens = set(_tokenize(query))
+    reranked: List[tuple[float, Dict[str, Any], Dict[str, Any]]] = []
+    for hit in faiss_hits:
+        metadata = hit.get("metadata", {})
+        if not isinstance(metadata, dict):
+            continue
+        vector_score = float(hit.get("score", 0.0))
+        lexical_overlap = len(query_tokens & set(_tokenize(str(metadata.get("semantic_explanation", "")))))
+        total = vector_score + 0.05 * lexical_overlap
+        reranked.append(
+            (
+                total,
+                metadata,
+                {
+                    "mode": "faiss",
+                    "vector_score": vector_score,
+                    "lexical_overlap": lexical_overlap,
                 },
             )
         )

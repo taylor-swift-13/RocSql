@@ -11,14 +11,12 @@ from typing import Any, Dict
 try:
     from codex_runner import CodexRunConfig, build_codex_prompt, run_codex_task
     from experience_extract import build_experience_bundle
-    from experience_retrieval import render_experience_prompt_block, retrieve_relevant_experiences
     from experience_store import write_experience_bundle
     from logging_utils import prepare_log_dir, write_json
     from theorem_task import TheoremTask
 except ModuleNotFoundError:
     from .codex_runner import CodexRunConfig, build_codex_prompt, run_codex_task
     from .experience_extract import build_experience_bundle
-    from .experience_retrieval import render_experience_prompt_block, retrieve_relevant_experiences
     from .experience_store import write_experience_bundle
     from .logging_utils import prepare_log_dir, write_json
     from .theorem_task import TheoremTask
@@ -87,9 +85,7 @@ def main() -> None:
     args = build_arg_parser().parse_args()
     task = TheoremTask.from_theorem_id(args.theorem_id)
     retrieved_experiences = []
-    if not args.disable_experience:
-        retrieved_experiences = retrieve_relevant_experiences(task, limit=args.experience_limit)
-    experience_block = render_experience_prompt_block(retrieved_experiences)
+    experience_block = ""
 
     config = CodexRunConfig(
         model=args.model,

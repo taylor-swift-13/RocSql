@@ -512,10 +512,17 @@ def build_experience_bundle(
     failed_proofs = extract_failed_proofs(result)
     repair_chain = extract_repair_chain(result)
     final_proof = _strip_code_fence(result.get("final_proof"))
-    oracle = _extract_oracle_proof(task) if str(result.get("final_status", "")) not in SUCCESS_STATUSES else {
-        "oracle_block": None,
-        "oracle_proof_text": None,
-    }
+    should_use_oracle_postmortem = (
+        str(result.get("final_status", "")) not in SUCCESS_STATUSES and bool(failed_proofs)
+    )
+    oracle = (
+        _extract_oracle_proof(task)
+        if should_use_oracle_postmortem
+        else {
+            "oracle_block": None,
+            "oracle_proof_text": None,
+        }
+    )
     oracle_block = str(oracle.get("oracle_block") or "")
     oracle_proof_text = str(oracle.get("oracle_proof_text") or "")
     proof_texts = [text for text in [final_proof, oracle_proof_text] if text]

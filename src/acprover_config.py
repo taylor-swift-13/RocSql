@@ -16,7 +16,7 @@ class ACProverConfig:
     semantic_model: str = "gpt-5.4-nano"
     semantic_reasoning_effort: str = "low"
     llm_base_url: str = "https://yunwu.ai/v1"
-    llm_api_key: str = "sk-afVplv2oRlR8SnMlC3K0ndGKOIsaBN5O3zxrD1B7zWzgNWGA"
+    llm_api_key: str = ""
     semantic_temperature: float = 0.2
 
 
@@ -33,8 +33,9 @@ def config_path() -> Path:
 
 def load_config() -> ACProverConfig:
     path = config_path()
+    env_api_key = os.environ.get("ACPROVER_LLM_API_KEY", "")
     if not path.exists():
-        return ACProverConfig()
+        return ACProverConfig(llm_api_key=env_api_key)
     payload = json.loads(path.read_text(encoding="utf-8"))
     return ACProverConfig(
         opam_switch=str(payload.get("opam_switch", "qcp-8.20")),
@@ -42,6 +43,6 @@ def load_config() -> ACProverConfig:
         semantic_model=str(payload.get("semantic_model", "gpt-5.4-nano")),
         semantic_reasoning_effort=str(payload.get("semantic_reasoning_effort", "low")),
         llm_base_url=str(payload.get("llm_base_url", "https://yunwu.ai/v1")),
-        llm_api_key=str(payload.get("llm_api_key", "sk-afVplv2oRlR8SnMlC3K0ndGKOIsaBN5O3zxrD1B7zWzgNWGA")),
+        llm_api_key=str(payload.get("llm_api_key", env_api_key)),
         semantic_temperature=float(payload.get("semantic_temperature", 0.2)),
     )

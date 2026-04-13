@@ -2,7 +2,7 @@
 
 标准库 experience 已经落在 `experience/stdlib/` 下。检索分两条链路：
 
-- 自然语言检索：走 `semantic_explanation` 的向量索引
+- 自然语言检索：走 `semantic_explanation` 的 Hugging Face 向量索引
 - metadata 检索：走 `experience/stdlib/metadata.db`
 
 ## 1. 重建索引
@@ -28,7 +28,7 @@ python3 src/coqstoq_tools.py build-stdlib-index --module-path Coq.Lists.List
 
 ## 2. 自然语言检索
 
-自然语言检索只基于 `semantic_explanation` 做向量召回和重排。
+自然语言检索只基于 `semantic_explanation` 做向量召回和重排。当前索引会把 Hugging Face embedding 模型下载到本地缓存目录后再编制 FAISS 索引。
 
 命令行：
 

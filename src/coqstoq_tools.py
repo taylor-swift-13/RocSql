@@ -5,26 +5,31 @@ from __future__ import annotations
 
 import argparse
 import json
+from pathlib import Path
 from typing import Any, Dict
 
 try:
+    from experience_extract import build_gold_reference_bundle
     from experience_retrieval import (
         query_coqstoq_by_description,
         query_coqstoq_sql,
         query_stdlib_by_description,
         query_stdlib_sql,
     )
-    from experience_store import experience_domain_root, refresh_experience_indexes
+    from experience_store import experience_domain_root, refresh_experience_indexes, write_experience_bundle
     from stdlib_index import build_and_write
+    from theorem_task import TheoremTask
 except ModuleNotFoundError:
+    from .experience_extract import build_gold_reference_bundle
     from .experience_retrieval import (
         query_coqstoq_by_description,
         query_coqstoq_sql,
         query_stdlib_by_description,
         query_stdlib_sql,
     )
-    from .experience_store import experience_domain_root, refresh_experience_indexes
+    from .experience_store import experience_domain_root, refresh_experience_indexes, write_experience_bundle
     from .stdlib_index import build_and_write
+    from .theorem_task import TheoremTask
 
 
 def cmd_query_stdlib(args: argparse.Namespace) -> Dict[str, Any]:
@@ -81,6 +86,20 @@ def cmd_build_coqstoq_index(args: argparse.Namespace) -> Dict[str, Any]:
     }
 
 
+def cmd_build_coqstoq_gold(args: argparse.Namespace) -> Dict[str, Any]:
+    task = TheoremTask.from_theorem_id(args.theorem_id, coqstoq_path=args.coqstoq_path)
+    bundle = build_gold_reference_bundle(task)
+    result = write_experience_bundle(
+        bundle,
+        Path("gold_reference"),
+        rebuild_indexes=not args.no_rebuild_indexes,
+    )
+    result["success"] = True
+    result["source"] = "coqstoq"
+    result["theorem_id"] = args.theorem_id
+    return result
+
+
 def cmd_build_stdlib_from_existing(args: argparse.Namespace) -> Dict[str, Any]:
     root = experience_domain_root("stdlib")
     refresh = refresh_experience_indexes(root)
@@ -117,6 +136,11 @@ def build_parser() -> argparse.ArgumentParser:
     coqstoq_sql = subparsers.add_parser("query-coqstoq-sql")
     coqstoq_sql.add_argument("--sql", required=True)
 
+    coqstoq_gold = subparsers.add_parser("build-coqstoq-gold")
+    coqstoq_gold.add_argument("--theorem-id", required=True)
+    coqstoq_gold.add_argument("--coqstoq-path")
+    coqstoq_gold.add_argument("--no-rebuild-indexes", action="store_true")
+
     subparsers.add_parser("build-coqstoq-index")
 
     return parser
@@ -137,6 +161,8 @@ def main() -> None:
         result = cmd_query_coqstoq(args)
     elif args.command == "query-coqstoq-sql":
         result = cmd_query_coqstoq_sql(args)
+    elif args.command == "build-coqstoq-gold":
+        result = cmd_build_coqstoq_gold(args)
     elif args.command == "build-coqstoq-index":
         result = cmd_build_coqstoq_index(args)
     else:

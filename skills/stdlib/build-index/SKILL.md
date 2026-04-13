@@ -46,19 +46,19 @@ Use the stdlib-specific build script:
 Build one stdlib module and rebuild indexes:
 
 ```bash
-python3 /home/yangfp/ACProver/scripts/build_stdlib_index.py --mode module --module-path Coq.Lists.List
+python3 scripts/build_stdlib_index.py --mode module --module-path Coq.Lists.List
 ```
 
 Build one stdlib module without rebuilding indexes:
 
 ```bash
-python3 /home/yangfp/ACProver/scripts/build_stdlib_index.py --mode module --module-path Coq.Strings.String --no-rebuild-indexes
+python3 scripts/build_stdlib_index.py --mode module --module-path Coq.Strings.String --no-rebuild-indexes
 ```
 
 Rebuild stdlib indexes from existing records only:
 
 ```bash
-python3 /home/yangfp/ACProver/scripts/build_stdlib_index.py --mode refresh
+python3 scripts/build_stdlib_index.py --mode refresh
 ```
 
 ## What this skill is for
@@ -67,7 +67,7 @@ Use this skill for:
 
 - generating stdlib records from Coq standard-library modules
 - generating `detail.md` and `reasoning.md`
-- rebuilding `metadata_index.json`, `metadata.db`, and the stdlib FAISS index
+- rebuilding `metadata_index.json`, `metadata.db`, and the stdlib FAISS index with the local Hugging Face embedding model
 - refreshing the stdlib index after records are already on disk
 
 Do not use this skill for CoqStoq indexing or proof search.

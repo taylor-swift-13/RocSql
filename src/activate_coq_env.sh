@@ -7,7 +7,6 @@ PROJECT_DIR="$SCRIPT_DIR"
 WORKSPACE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 export PROJECT_DIR
 
-# 可选：按需启用代理（如果已设置则保持）
 if [ -n "${http_proxy:-}" ]; then
   export http_proxy
 fi
@@ -15,7 +14,6 @@ if [ -n "${https_proxy:-}" ]; then
   export https_proxy
 fi
 
-# 激活 opam 环境（优先 coqswitch，其次当前 switch）
 if command -v opam >/dev/null 2>&1; then
   if opam switch list --short 2>/dev/null | grep -qx "coqswitch"; then
     eval "$(opam env --switch=coqswitch)"
@@ -39,8 +37,8 @@ echo ""
 echo "项目目录: $PROJECT_DIR"
 echo "CoqStoq 路径: ${COQSTOQ_PATH:-未设置}"
 echo ""
-echo "可用命令:"
-echo "  cd $PROJECT_DIR          # 进入项目目录"
-echo "  python verify_demo.py            # 运行验证示例"
-echo "  python verify.py test:39 'Proof. ... Qed.'"
+echo "常用命令:"
+echo "  cd $WORKSPACE_DIR"
+echo "  python3 src/coqstoq_tools.py build-stdlib-from-existing"
+echo "  python3 src/coqstoq_tools.py build-coqstoq-index"
 echo "=========================================="

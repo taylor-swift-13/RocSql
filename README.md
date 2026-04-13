@@ -1,15 +1,13 @@
 # RocSql
 
-RocSql is a local retrieval workspace for Coq standard-library theorem records.
+RocSql is a local retrieval workspace for Coq standard-library and CoqStoq theorem records.
 
 Current scope:
 
-- proving is disabled
-- standard-library theorem records are stored under `experience/`
+- standard-library and CoqStoq records are stored under `experience/`
 - FAISS indexes `semantic_explanation` with a local Hugging Face embedding model
 - agents read `detail.md` and `reasoning.md`
-- standard-library text generation uses `gpt-5.4-nano` by default
-- local rule-based text generation is only a fallback when model generation fails
+- record generation uses `gpt-5.4-nano` by default
 
 ## Environment
 
@@ -40,16 +38,34 @@ Build records for `Coq.Lists.List`:
 python3 src/coqstoq_tools.py build-stdlib-index --module-path Coq.Lists.List
 ```
 
-Query by natural language:
+Build one CoqStoq gold-reference record:
+
+```bash
+python3 src/coqstoq_tools.py build-coqstoq-gold --theorem-id test:0
+```
+
+Query stdlib by natural language:
 
 ```bash
 python3 src/coqstoq_tools.py query-stdlib --description "append with empty list on the right" -k 5
+```
+
+Query CoqStoq by natural language:
+
+```bash
+python3 src/coqstoq_tools.py query-coqstoq --description "append with empty list on the right" -k 5
 ```
 
 Rebuild stdlib indexes from existing records:
 
 ```bash
 python3 src/coqstoq_tools.py build-stdlib-from-existing
+```
+
+Rebuild CoqStoq indexes from existing records:
+
+```bash
+python3 src/coqstoq_tools.py build-coqstoq-index
 ```
 
 Convenience query wrappers:
@@ -62,11 +78,3 @@ python3 scripts/query_stdlib_experience.py --sql "select record_id, item_kind fr
 Detailed retrieval guide:
 
 - `docs/stdlib-retrieval.md`
-
-Legacy proving entrypoint:
-
-```bash
-python3 src/proof_task_client.py
-```
-
-This now returns a clear error because proving is disabled.

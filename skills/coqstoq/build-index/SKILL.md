@@ -37,7 +37,7 @@ Do not create extra artifact files for `context` or `proof`; they must stay inli
 Refresh CoqStoq indexes from existing CoqStoq records:
 
 ```bash
-python3 /home/yangfp/ACProver/src/coqstoq_tools.py build-coqstoq-index
+python3 src/coqstoq_tools.py build-coqstoq-index
 ```
 
 ## What this skill is for
